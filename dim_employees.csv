@@ -1,0 +1,217 @@
+employee_id,first_name,last_name,gender,role,store_id,hire_date,monthly_salary_egp
+EMP0001,Ghada,Sayed,Female,Store Manager,1,2018-07-04,14235
+EMP0002,Nadia,Ali,Female,Sales Associate,1,2023-08-18,4255
+EMP0003,Samah,Mahmoud,Female,Sales Associate,1,2022-05-27,5287
+EMP0004,Neveen,Ismail,Female,Store Manager,1,2023-02-02,14854
+EMP0005,Samir,Mahmoud,Male,Department Manager,1,2024-04-28,8706
+EMP0006,Maged,Hamdy,Male,Department Manager,1,2019-06-12,8929
+EMP0007,Sara,Khalil,Female,Senior Sales Associate,1,2022-12-08,6334
+EMP0008,Emad,Farouk,Male,Sales Associate,1,2023-06-27,5573
+EMP0009,Salma,Ali,Female,Sales Associate,1,2024-06-13,4548
+EMP0010,Fady,Nasser,Male,Cashier,1,2023-08-13,5311
+EMP0011,Dalia,Salem,Female,Sales Associate,1,2020-03-08,5525
+EMP0012,Nadia,Ramadan,Female,Sales Associate,1,2022-07-12,4449
+EMP0013,Mariam,Wahba,Female,Sales Associate,1,2021-02-25,4096
+EMP0014,Yasmin,Khalil,Female,Department Manager,1,2024-11-14,9721
+EMP0015,Bassem,Attia,Male,Department Manager,1,2022-05-18,10262
+EMP0016,Rania,Saad,Female,Sales Associate,1,2024-11-11,4228
+EMP0017,Youssef,Attia,Male,Department Manager,1,2018-12-24,9039
+EMP0018,Noha,Wahba,Female,Cashier,1,2018-11-10,5223
+EMP0019,Amira,Salem,Female,Department Manager,1,2020-03-18,10452
+EMP0020,Fatima,Bakr,Female,Cashier,1,2021-01-04,5402
+EMP0021,Adel,Amin,Male,Store Manager,1,2018-04-19,15439
+EMP0022,Hossam,Ibrahim,Male,Sales Associate,1,2024-09-25,4257
+EMP0023,Essam,Khalil,Male,Senior Sales Associate,1,2020-09-28,7242
+EMP0024,Sherif,Ismail,Male,Cashier,1,2023-05-13,4875
+EMP0025,Engy,Barakat,Female,Cashier,1,2021-02-08,3960
+EMP0026,Mohamed,Farouk,Male,Store Manager,1,2022-04-01,13645
+EMP0027,Nour,Farouk,Female,Senior Sales Associate,1,2018-01-28,6676
+EMP0028,Wael,Saad,Male,Department Manager,1,2023-08-07,9604
+EMP0029,Maged,Amin,Male,Store Manager,2,2019-08-26,15264
+EMP0030,Heba,Ahmed,Female,Senior Sales Associate,2,2024-09-27,6030
+EMP0031,Reem,Khalil,Female,Cashier,2,2022-08-16,3937
+EMP0032,Nour,Khalil,Female,Department Manager,2,2022-01-13,9043
+EMP0033,Dalia,Younis,Female,Cashier,2,2022-12-24,5104
+EMP0034,Suzy,Salem,Female,Cashier,2,2020-05-07,5483
+EMP0035,Ali,Bakr,Male,Department Manager,2,2019-01-19,9476
+EMP0036,Akram,Khalil,Male,Sales Associate,2,2019-09-03,5743
+EMP0037,Omar,Amin,Male,Sales Associate,2,2022-02-19,4504
+EMP0038,Mona,Mahmoud,Female,Cashier,2,2022-11-19,4657
+EMP0039,Osama,Nasser,Male,Cashier,2,2024-12-11,3988
+EMP0040,Khaled,Zaki,Male,Cashier,2,2022-06-25,5416
+EMP0041,Maged,Sayed,Male,Cashier,2,2019-09-07,4536
+EMP0042,Ramy,Ibrahim,Male,Cashier,2,2020-06-10,3823
+EMP0043,Adel,Barakat,Male,Sales Associate,2,2019-11-27,5135
+EMP0044,Hussein,Abdallah,Male,Sales Associate,2,2021-02-04,5520
+EMP0045,Eman,Younis,Female,Sales Associate,2,2023-04-23,4702
+EMP0046,Osama,Wahba,Male,Cashier,2,2022-05-28,3604
+EMP0047,Ayman,Saad,Male,Cashier,2,2019-01-11,5079
+EMP0048,Osama,Khalil,Male,Sales Associate,2,2024-08-18,5445
+EMP0049,Ahmed,Mostafa,Male,Department Manager,2,2019-12-05,9617
+EMP0050,Tarek,Salem,Male,Department Manager,2,2022-03-02,9131
+EMP0051,Mahmoud,Gamal,Male,Department Manager,2,2020-11-08,9865
+EMP0052,Ashraf,Salem,Male,Cashier,2,2020-03-26,5160
+EMP0053,Ashraf,Mohamed,Male,Senior Sales Associate,2,2020-12-11,7602
+EMP0054,Reem,Saad,Female,Cashier,2,2020-12-04,4283
+EMP0055,Nadia,Ali,Female,Store Manager,3,2018-10-14,14207
+EMP0056,Doha,Ramadan,Female,Sales Associate,3,2018-07-19,4389
+EMP0057,Ayman,Hassan,Male,Cashier,3,2020-06-14,3643
+EMP0058,Ghada,Bakr,Female,Department Manager,3,2018-12-10,9538
+EMP0059,Ashraf,Bakr,Male,Department Manager,3,2023-12-10,9635
+EMP0060,Ashraf,Lotfy,Male,Cashier,3,2019-10-19,4116
+EMP0061,Ahmed,Zaki,Male,Cashier,3,2021-04-14,5109
+EMP0062,Doha,Attia,Female,Store Manager,3,2024-08-22,13937
+EMP0063,Youssef,Mahmoud,Male,Department Manager,3,2021-09-22,9796
+EMP0064,Dina,Amin,Female,Department Manager,3,2021-04-26,8907
+EMP0065,Mahmoud,Amin,Male,Sales Associate,3,2024-10-28,5573
+EMP0066,Ashraf,Ismail,Male,Department Manager,3,2023-08-13,8999
+EMP0067,Ahmed,Sayed,Male,Cashier,3,2023-04-06,5146
+EMP0068,Dalia,Ahmed,Female,Cashier,3,2020-02-15,3773
+EMP0069,Doha,Badawi,Female,Store Manager,3,2023-09-15,15337
+EMP0070,Essam,Badawi,Male,Sales Associate,3,2021-04-27,5305
+EMP0071,Akram,Fathy,Male,Store Manager,3,2020-05-15,13658
+EMP0072,Reem,Saad,Female,Cashier,3,2022-06-18,3665
+EMP0073,Hany,Lotfy,Male,Cashier,3,2019-12-07,3631
+EMP0074,Nader,Attia,Male,Cashier,3,2023-01-07,5205
+EMP0075,Mohamed,Lotfy,Male,Sales Associate,3,2024-01-12,4611
+EMP0076,Zeinab,Farouk,Female,Sales Associate,3,2024-04-09,4892
+EMP0077,Bassem,Hafez,Male,Store Manager,3,2023-12-06,15221
+EMP0078,Khaled,Mohamed,Male,Senior Sales Associate,3,2023-10-19,7357
+EMP0079,Ashraf,Rizk,Male,Store Manager,4,2020-08-01,15034
+EMP0080,Ramy,Farouk,Male,Sales Associate,4,2020-11-02,5544
+EMP0081,Wael,Ismail,Male,Sales Associate,4,2020-10-05,4488
+EMP0082,Ibrahim,Nasser,Male,Cashier,4,2023-12-09,5070
+EMP0083,Ibrahim,Khalil,Male,Senior Sales Associate,4,2022-02-19,6052
+EMP0084,Samah,Shaaban,Female,Cashier,4,2021-02-19,4914
+EMP0085,Reem,Sayed,Female,Senior Sales Associate,4,2022-11-20,7649
+EMP0086,Mahmoud,Gamal,Male,Sales Associate,4,2024-07-22,4758
+EMP0087,Nader,Hassan,Male,Store Manager,4,2023-08-04,14387
+EMP0088,Dalia,Salem,Female,Cashier,4,2023-03-24,4568
+EMP0089,Eman,Gouda,Female,Cashier,4,2023-07-27,4997
+EMP0090,Doha,Amin,Female,Department Manager,4,2020-05-15,8999
+EMP0091,Samah,Hafez,Female,Cashier,4,2020-08-28,4165
+EMP0092,Sherif,Gamal,Male,Cashier,4,2022-06-09,5302
+EMP0093,Eman,Hassan,Female,Cashier,4,2024-04-03,3994
+EMP0094,Suzy,Amin,Female,Cashier,4,2023-11-23,4505
+EMP0095,Ibrahim,Ismail,Male,Store Manager,5,2021-02-24,14597
+EMP0096,Noha,Ismail,Female,Cashier,5,2019-12-16,4066
+EMP0097,Lobna,Sayed,Female,Sales Associate,5,2019-05-08,4739
+EMP0098,Ahmed,Abdallah,Male,Sales Associate,5,2020-01-02,5133
+EMP0099,Khaled,Fathy,Male,Store Manager,5,2017-01-19,14082
+EMP0100,Magdy,Hafez,Male,Department Manager,5,2018-01-09,10427
+EMP0101,Rania,Ibrahim,Female,Cashier,5,2022-08-03,4681
+EMP0102,Nour,Salem,Female,Department Manager,5,2018-10-10,8674
+EMP0103,Rania,Ragab,Female,Store Manager,5,2019-09-13,14422
+EMP0104,Shaimaa,Ramadan,Female,Cashier,5,2020-10-20,3623
+EMP0105,Heba,Nasser,Female,Cashier,5,2019-05-22,3666
+EMP0106,Amr,Ibrahim,Male,Cashier,5,2018-01-14,4422
+EMP0107,Hoda,Younis,Female,Cashier,5,2016-04-10,4947
+EMP0108,Maged,Ibrahim,Male,Cashier,5,2019-05-26,5120
+EMP0109,Amira,Ramadan,Female,Cashier,5,2017-09-08,4826
+EMP0110,Emad,Salem,Male,Cashier,5,2017-01-06,5123
+EMP0111,Samir,Badawi,Male,Store Manager,5,2017-08-23,14122
+EMP0112,Eman,Wahba,Female,Store Manager,5,2024-08-15,13664
+EMP0113,Noha,Ramadan,Female,Store Manager,6,2024-02-16,14212
+EMP0114,Fady,Sayed,Male,Sales Associate,6,2022-06-14,5420
+EMP0115,Walid,Ali,Male,Cashier,6,2024-02-11,4016
+EMP0116,Walid,Wahba,Male,Cashier,6,2021-11-28,4611
+EMP0117,Ali,Ismail,Male,Store Manager,6,2023-10-25,14520
+EMP0118,Nour,Nasser,Female,Sales Associate,6,2023-09-05,5899
+EMP0119,Hossam,Mostafa,Male,Sales Associate,6,2021-11-20,5636
+EMP0120,Youssef,Zaki,Male,Department Manager,6,2021-09-14,8690
+EMP0121,Ibrahim,Attia,Male,Sales Associate,6,2021-11-27,4315
+EMP0122,Samir,Wahba,Male,Store Manager,6,2023-07-27,14488
+EMP0123,Reem,Attia,Female,Sales Associate,6,2022-07-07,5887
+EMP0124,Mariam,Ibrahim,Female,Senior Sales Associate,6,2023-07-11,7913
+EMP0125,Eman,Hassan,Female,Cashier,6,2023-12-10,5215
+EMP0126,Suzy,Salem,Female,Cashier,6,2024-09-16,4206
+EMP0127,Essam,Lotfy,Male,Store Manager,7,2023-11-26,15180
+EMP0128,Yasmin,Fathy,Female,Cashier,7,2022-03-17,5477
+EMP0129,Heba,Badawi,Female,Cashier,7,2022-09-15,3531
+EMP0130,Zeinab,Salem,Female,Cashier,7,2022-08-26,5484
+EMP0131,Walid,Mahmoud,Male,Cashier,7,2023-11-28,4592
+EMP0132,Fady,Fathy,Male,Department Manager,7,2024-01-20,8640
+EMP0133,Samir,Farouk,Male,Department Manager,7,2024-02-14,8701
+EMP0134,Heba,Badawi,Female,Cashier,7,2022-12-10,5350
+EMP0135,Fady,Ahmed,Male,Department Manager,7,2023-06-12,9382
+EMP0136,Akram,Ragab,Male,Cashier,7,2024-11-26,3868
+EMP0137,Osama,Attia,Male,Store Manager,8,2021-11-01,15340
+EMP0138,Lobna,Khalil,Female,Senior Sales Associate,8,2019-08-12,7203
+EMP0139,Ayman,Rizk,Male,Senior Sales Associate,8,2022-05-07,6787
+EMP0140,Heba,Amin,Female,Sales Associate,8,2022-10-12,5177
+EMP0141,Samir,Mohamed,Male,Cashier,8,2024-07-09,3516
+EMP0142,Nour,Fathy,Female,Department Manager,8,2021-04-20,10142
+EMP0143,Karim,Rizk,Male,Cashier,8,2024-12-25,4850
+EMP0144,Mariam,Sayed,Female,Senior Sales Associate,8,2024-11-02,6632
+EMP0145,Ashraf,Mansour,Male,Store Manager,9,2021-03-26,14604
+EMP0146,Neveen,Barakat,Female,Cashier,9,2024-05-27,3836
+EMP0147,Essam,Younis,Male,Sales Associate,9,2022-02-15,5972
+EMP0148,Hany,Shaaban,Male,Cashier,9,2024-06-03,5119
+EMP0149,Osama,Mostafa,Male,Senior Sales Associate,9,2023-06-22,7533
+EMP0150,Samah,Hamdy,Female,Sales Associate,9,2020-11-08,4965
+EMP0151,Fady,Farouk,Male,Store Manager,9,2020-11-27,14450
+EMP0152,Mariam,Lotfy,Female,Store Manager,10,2021-06-22,15444
+EMP0153,Zeinab,Salem,Female,Store Manager,10,2021-11-04,15207
+EMP0154,Ashraf,Saad,Male,Cashier,10,2018-12-12,3944
+EMP0155,Wael,Hamdy,Male,Sales Associate,10,2018-11-12,5115
+EMP0156,Ola,Ahmed,Female,Senior Sales Associate,10,2021-05-07,7982
+EMP0157,Maged,Mahmoud,Male,Sales Associate,10,2023-04-21,5309
+EMP0158,Aisha,Ahmed,Female,Sales Associate,10,2024-06-08,4257
+EMP0159,Hana,Ibrahim,Female,Store Manager,10,2024-09-07,14700
+EMP0160,Hany,Hafez,Male,Cashier,10,2024-03-26,5344
+EMP0161,Eman,Salem,Female,Sales Associate,10,2019-09-09,5635
+EMP0162,Mohamed,Abdallah,Male,Sales Associate,10,2018-06-26,5614
+EMP0163,Fady,Mohamed,Male,Department Manager,10,2019-05-02,8759
+EMP0164,Mona,Barakat,Female,Store Manager,11,2023-08-21,15474
+EMP0165,Essam,Shaaban,Male,Cashier,11,2024-11-04,4504
+EMP0166,Engy,Ibrahim,Female,Sales Associate,11,2021-06-20,4303
+EMP0167,Emad,Bakr,Male,Sales Associate,11,2024-10-17,4603
+EMP0168,Ayman,Sayed,Male,Cashier,11,2021-11-21,5297
+EMP0169,Hana,Ramadan,Female,Cashier,11,2024-04-14,4194
+EMP0170,Manar,Ragab,Female,Cashier,11,2021-06-14,4140
+EMP0171,Neveen,Salem,Female,Sales Associate,11,2024-02-03,5703
+EMP0172,Ayman,Sayed,Male,Cashier,11,2023-03-18,3622
+EMP0173,Ghada,Mostafa,Female,Department Manager,11,2024-06-28,9862
+EMP0174,Ola,Hamdy,Female,Store Manager,12,2018-05-19,13963
+EMP0175,Aisha,Saad,Female,Cashier,12,2017-03-09,4939
+EMP0176,Ghada,Gamal,Female,Sales Associate,12,2017-03-28,4293
+EMP0177,Manar,Ibrahim,Female,Store Manager,12,2019-12-21,15490
+EMP0178,Akram,Nasser,Male,Store Manager,12,2023-07-15,14198
+EMP0179,Adel,Bakr,Male,Cashier,12,2018-01-05,3822
+EMP0180,Nour,Mahmoud,Female,Sales Associate,12,2021-08-22,4868
+EMP0181,Magdy,Ragab,Male,Department Manager,12,2021-04-25,9549
+EMP0182,Ayman,Mostafa,Male,Senior Sales Associate,12,2021-11-22,7214
+EMP0183,Adel,Ali,Male,Cashier,12,2020-07-20,3612
+EMP0184,Adel,Nasser,Male,Department Manager,12,2019-05-10,9171
+EMP0185,Ramy,Ibrahim,Male,Store Manager,13,2023-12-02,14393
+EMP0186,Omar,Bakr,Male,Sales Associate,13,2024-07-19,4828
+EMP0187,Zeinab,Younis,Female,Sales Associate,13,2022-07-01,5978
+EMP0188,Maged,Hamdy,Male,Cashier,13,2022-07-28,3716
+EMP0189,Walid,Barakat,Male,Cashier,13,2022-07-28,4135
+EMP0190,Salma,Hafez,Female,Senior Sales Associate,13,2022-02-17,7296
+EMP0191,Hazem,Ismail,Male,Senior Sales Associate,13,2023-06-24,7962
+EMP0192,Yasmin,Amin,Female,Cashier,13,2022-03-09,3904
+EMP0193,Tamer,Ibrahim,Male,Department Manager,13,2022-11-16,9450
+EMP0194,Nour,Gamal,Female,Store Manager,14,2024-02-10,14445
+EMP0195,Ali,Hamdy,Male,Cashier,14,2022-02-21,5269
+EMP0196,Dina,Wahba,Female,Cashier,14,2023-08-19,4635
+EMP0197,Mona,Badawi,Female,Cashier,14,2024-11-07,4158
+EMP0198,Reham,Salem,Female,Senior Sales Associate,14,2020-08-04,7660
+EMP0199,Ghada,Mahmoud,Female,Cashier,14,2024-11-06,3580
+EMP0200,Magdy,Badawi,Male,Sales Associate,14,2024-09-20,4325
+EMP0201,Samir,Lotfy,Male,Cashier,14,2023-06-22,4724
+EMP0202,Nader,Ibrahim,Male,Cashier,14,2022-02-18,4889
+EMP0203,Osama,Salem,Male,Store Manager,14,2022-02-19,14859
+EMP0204,Mohamed,Hamdy,Male,Store Manager,15,2021-03-07,14199
+EMP0205,Suzy,Ismail,Female,Senior Sales Associate,15,2020-03-05,6158
+EMP0206,Hussein,Wahba,Male,Cashier,15,2023-12-17,3577
+EMP0207,Mariam,Lotfy,Female,Store Manager,15,2020-03-06,15202
+EMP0208,Rana,Badawi,Female,Cashier,15,2019-07-12,4885
+EMP0209,Engy,Younis,Female,Senior Sales Associate,15,2024-08-08,7093
+EMP0210,Essam,Ismail,Male,Sales Associate,15,2021-11-19,4902
+EMP0211,Samir,Lotfy,Male,Store Manager,15,2023-09-14,15478
+EMP0212,Karim,Abdallah,Male,Cashier,15,2021-01-21,4484
+EMP0213,Heba,Barakat,Female,Cashier,15,2019-05-03,5062
+EMP0214,Magdy,Wahba,Male,Senior Sales Associate,15,2020-07-03,7938
+EMP0215,Engy,Gamal,Female,Sales Associate,15,2019-07-02,4811
+EMP0216,Wael,Lotfy,Male,Cashier,15,2019-06-08,3557

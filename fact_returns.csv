@@ -1,0 +1,1057 @@
+return_id,order_id,return_date,return_reason,return_amount,refund_method,return_status
+RET00001,ORD0000010,2022-05-23,Defective Product,85.0,Fawry,Refunded
+RET00002,ORD0000017,2024-03-20,Duplicate Order,8285.0,InstaPay,Refunded
+RET00003,ORD0000029,2023-07-08,Wrong Item Delivered,180.0,Vodafone Cash,Refunded
+RET00004,ORD0000039,2022-08-28,Changed Mind,1705.0,Cash,Pending
+RET00005,ORD0000052,2023-06-04,Changed Mind,2000.0,Cash,Refunded
+RET00006,ORD0000053,2023-05-22,Defective Product,5767.5,Credit Card,Refunded
+RET00007,ORD0000066,2022-12-18,Quality Issue,12330.0,Debit Card,Refunded
+RET00008,ORD0000095,2024-06-07,Quality Issue,657.5,Vodafone Cash,Refunded
+RET00009,ORD0000096,2024-10-10,Duplicate Order,200.0,InstaPay,Refunded
+RET00010,ORD0000100,2022-07-08,Quality Issue,999.0,Vodafone Cash,Pending
+RET00011,ORD0000116,2023-04-09,Quality Issue,10152.0,Debit Card,Pending
+RET00012,ORD0000139,2024-04-08,Wrong Item Delivered,2880.0,Vodafone Cash,Refunded
+RET00013,ORD0000140,2022-11-23,Wrong Item Delivered,212.5,Cash,Refunded
+RET00014,ORD0000154,2022-12-16,Duplicate Order,1155.5,Cash,Pending
+RET00015,ORD0000162,2024-02-25,Size Issue,629.0,Fawry,Refunded
+RET00016,ORD0000163,2024-07-20,Defective Product,1366.0,Vodafone Cash,Refunded
+RET00017,ORD0000164,2023-03-26,Wrong Item Delivered,304.0,Vodafone Cash,Refunded
+RET00018,ORD0000170,2023-01-03,Changed Mind,994.0,Cash,Refunded
+RET00019,ORD0000174,2022-05-01,Changed Mind,540.0,Fawry,Refunded
+RET00020,ORD0000183,2022-03-31,Changed Mind,275.0,Debit Card,Refunded
+RET00021,ORD0000186,2024-06-06,Wrong Item Delivered,217.5,InstaPay,Refunded
+RET00022,ORD0000189,2022-11-14,Changed Mind,2305.5,Credit Card,Refunded
+RET00023,ORD0000197,2023-05-15,Wrong Item Delivered,504.0,Vodafone Cash,Refunded
+RET00024,ORD0000200,2024-04-06,Wrong Item Delivered,1470.0,InstaPay,Pending
+RET00025,ORD0000201,2023-02-23,Changed Mind,1323.0,Fawry,Refunded
+RET00026,ORD0000207,2023-08-12,Duplicate Order,31326.5,Fawry,Refunded
+RET00027,ORD0000215,2022-07-18,Duplicate Order,290.0,Fawry,Refunded
+RET00028,ORD0000224,2022-12-03,Wrong Item Delivered,1306.5,Vodafone Cash,Refunded
+RET00029,ORD0000231,2024-08-14,Defective Product,720.0,InstaPay,Refunded
+RET00030,ORD0000233,2024-01-27,Size Issue,616.0,Fawry,Refunded
+RET00031,ORD0000241,2022-02-17,Wrong Item Delivered,410.0,Cash,Refunded
+RET00032,ORD0000251,2022-11-11,Size Issue,5357.5,Credit Card,Pending
+RET00033,ORD0000263,2023-10-17,Size Issue,981.0,Fawry,Refunded
+RET00034,ORD0000278,2024-06-09,Size Issue,500.0,Fawry,Pending
+RET00035,ORD0000299,2024-07-07,Duplicate Order,865.0,Debit Card,Rejected
+RET00036,ORD0000310,2022-05-27,Size Issue,37840.0,Vodafone Cash,Refunded
+RET00037,ORD0000317,2023-08-22,Changed Mind,5310.0,Vodafone Cash,Rejected
+RET00038,ORD0000329,2024-10-31,Size Issue,784.0,Vodafone Cash,Refunded
+RET00039,ORD0000335,2024-03-22,Quality Issue,447.0,Vodafone Cash,Refunded
+RET00040,ORD0000336,2022-07-22,Wrong Item Delivered,2135.0,Debit Card,Pending
+RET00041,ORD0000344,2024-05-21,Quality Issue,6000.0,InstaPay,Refunded
+RET00042,ORD0000349,2022-11-19,Quality Issue,1095.0,Fawry,Pending
+RET00043,ORD0000361,2022-12-07,Duplicate Order,2326.5,Credit Card,Refunded
+RET00044,ORD0000367,2023-08-22,Defective Product,1065.0,Vodafone Cash,Refunded
+RET00045,ORD0000378,2023-11-29,Defective Product,972.0,Cash,Refunded
+RET00046,ORD0000382,2023-08-27,Size Issue,750.0,Vodafone Cash,Refunded
+RET00047,ORD0000394,2023-07-05,Quality Issue,1458.0,InstaPay,Refunded
+RET00048,ORD0000405,2024-11-26,Changed Mind,742.5,Vodafone Cash,Refunded
+RET00049,ORD0000410,2022-03-03,Wrong Item Delivered,33952.5,Fawry,Refunded
+RET00050,ORD0000411,2023-10-01,Defective Product,1664.0,Fawry,Refunded
+RET00051,ORD0000412,2022-06-23,Size Issue,895.0,Credit Card,Refunded
+RET00052,ORD0000417,2022-12-17,Defective Product,952.0,InstaPay,Rejected
+RET00053,ORD0000444,2024-08-23,Changed Mind,150.0,Fawry,Refunded
+RET00054,ORD0000454,2022-06-15,Changed Mind,1230.0,InstaPay,Refunded
+RET00055,ORD0000463,2022-01-27,Duplicate Order,570.0,InstaPay,Refunded
+RET00056,ORD0000501,2022-09-24,Duplicate Order,1992.0,Cash,Rejected
+RET00057,ORD0000506,2023-08-15,Duplicate Order,10738.0,Vodafone Cash,Refunded
+RET00058,ORD0000512,2023-01-03,Wrong Item Delivered,2059.0,Cash,Pending
+RET00059,ORD0000514,2022-02-16,Quality Issue,54634.0,InstaPay,Refunded
+RET00060,ORD0000518,2024-12-06,Defective Product,12800.0,Credit Card,Refunded
+RET00061,ORD0000523,2022-02-11,Duplicate Order,2692.0,Fawry,Refunded
+RET00062,ORD0000550,2023-01-09,Wrong Item Delivered,12420.0,InstaPay,Pending
+RET00063,ORD0000555,2024-11-11,Defective Product,1114.5,Cash,Refunded
+RET00064,ORD0000559,2024-03-17,Wrong Item Delivered,525.5,Vodafone Cash,Refunded
+RET00065,ORD0000566,2022-04-26,Quality Issue,2090.0,Credit Card,Refunded
+RET00066,ORD0000573,2024-07-18,Duplicate Order,280.0,InstaPay,Refunded
+RET00067,ORD0000595,2024-01-24,Defective Product,816.0,Credit Card,Pending
+RET00068,ORD0000602,2023-12-18,Size Issue,584.0,Vodafone Cash,Refunded
+RET00069,ORD0000643,2022-05-22,Duplicate Order,24649.0,Vodafone Cash,Refunded
+RET00070,ORD0000664,2023-07-27,Duplicate Order,1860.0,Debit Card,Refunded
+RET00071,ORD0000669,2022-05-16,Duplicate Order,80.0,Debit Card,Refunded
+RET00072,ORD0000673,2022-02-18,Defective Product,1290.0,Credit Card,Refunded
+RET00073,ORD0000686,2023-07-21,Duplicate Order,170.0,Fawry,Refunded
+RET00074,ORD0000695,2024-12-23,Defective Product,142.5,Cash,Refunded
+RET00075,ORD0000696,2022-01-21,Size Issue,816.0,Fawry,Refunded
+RET00076,ORD0000706,2024-04-14,Duplicate Order,10560.0,Debit Card,Pending
+RET00077,ORD0000709,2023-07-13,Size Issue,730.0,Credit Card,Refunded
+RET00078,ORD0000724,2023-02-05,Duplicate Order,1318.5,Cash,Refunded
+RET00079,ORD0000739,2023-12-09,Duplicate Order,240.0,Credit Card,Refunded
+RET00080,ORD0000752,2024-10-22,Wrong Item Delivered,972.0,InstaPay,Pending
+RET00081,ORD0000758,2023-12-07,Defective Product,540.0,Fawry,Refunded
+RET00082,ORD0000767,2022-05-11,Duplicate Order,288.0,Cash,Rejected
+RET00083,ORD0000776,2023-08-15,Changed Mind,470.0,Vodafone Cash,Refunded
+RET00084,ORD0000787,2023-11-24,Size Issue,1364.0,Debit Card,Refunded
+RET00085,ORD0000792,2023-01-06,Size Issue,603.5,Credit Card,Pending
+RET00086,ORD0000811,2022-10-15,Quality Issue,6925.0,Fawry,Refunded
+RET00087,ORD0000819,2023-03-10,Size Issue,2234.5,Cash,Refunded
+RET00088,ORD0000832,2022-08-02,Defective Product,336.0,Cash,Refunded
+RET00089,ORD0000838,2024-10-26,Duplicate Order,1272.5,Fawry,Rejected
+RET00090,ORD0000844,2023-01-28,Defective Product,440.0,Vodafone Cash,Refunded
+RET00091,ORD0000847,2022-05-29,Quality Issue,702.0,Cash,Rejected
+RET00092,ORD0000848,2022-08-11,Duplicate Order,1672.0,Cash,Refunded
+RET00093,ORD0000852,2022-12-22,Quality Issue,162.0,Fawry,Refunded
+RET00094,ORD0000854,2022-03-13,Defective Product,4731.5,InstaPay,Refunded
+RET00095,ORD0000860,2023-07-13,Wrong Item Delivered,360.0,Fawry,Refunded
+RET00096,ORD0000875,2023-04-15,Duplicate Order,664.0,Fawry,Pending
+RET00097,ORD0000903,2023-11-21,Wrong Item Delivered,270.0,Cash,Refunded
+RET00098,ORD0000936,2023-08-10,Wrong Item Delivered,13180.0,Credit Card,Rejected
+RET00099,ORD0000957,2024-01-25,Wrong Item Delivered,432.0,Cash,Refunded
+RET00100,ORD0000976,2023-05-04,Changed Mind,10200.0,Vodafone Cash,Pending
+RET00101,ORD0000998,2022-08-14,Defective Product,2082.0,Debit Card,Refunded
+RET00102,ORD0001018,2024-09-02,Changed Mind,1112.0,InstaPay,Refunded
+RET00103,ORD0001020,2023-10-07,Duplicate Order,243.0,Fawry,Pending
+RET00104,ORD0001021,2023-05-17,Defective Product,2360.0,Cash,Refunded
+RET00105,ORD0001025,2024-04-25,Wrong Item Delivered,2114.0,InstaPay,Rejected
+RET00106,ORD0001036,2023-01-29,Size Issue,2314.0,Credit Card,Refunded
+RET00107,ORD0001078,2023-08-19,Changed Mind,572.5,Credit Card,Refunded
+RET00108,ORD0001081,2022-12-25,Size Issue,2994.0,Debit Card,Refunded
+RET00109,ORD0001089,2022-09-22,Wrong Item Delivered,1032.0,Debit Card,Refunded
+RET00110,ORD0001106,2024-04-04,Size Issue,28760.0,Credit Card,Rejected
+RET00111,ORD0001109,2022-02-10,Size Issue,776.0,Debit Card,Rejected
+RET00112,ORD0001110,2023-03-24,Changed Mind,580.0,Fawry,Refunded
+RET00113,ORD0001132,2024-06-10,Wrong Item Delivered,957.0,Fawry,Pending
+RET00114,ORD0001152,2023-03-09,Quality Issue,683.0,Debit Card,Refunded
+RET00115,ORD0001168,2023-04-18,Quality Issue,582.0,InstaPay,Refunded
+RET00116,ORD0001170,2022-06-29,Quality Issue,19272.0,Credit Card,Refunded
+RET00117,ORD0001171,2023-11-03,Duplicate Order,450.5,InstaPay,Refunded
+RET00118,ORD0001185,2023-03-08,Duplicate Order,160.0,Fawry,Refunded
+RET00119,ORD0001191,2022-05-14,Defective Product,180.5,InstaPay,Refunded
+RET00120,ORD0001212,2022-07-26,Size Issue,360.0,Cash,Refunded
+RET00121,ORD0001213,2022-11-20,Quality Issue,880.0,Fawry,Refunded
+RET00122,ORD0001214,2024-09-24,Duplicate Order,1380.0,Debit Card,Refunded
+RET00123,ORD0001219,2024-01-13,Duplicate Order,627.0,Cash,Pending
+RET00124,ORD0001220,2023-07-24,Size Issue,2431.5,Debit Card,Refunded
+RET00125,ORD0001232,2023-02-24,Duplicate Order,2829.0,Vodafone Cash,Refunded
+RET00126,ORD0001236,2022-12-31,Changed Mind,270.0,Credit Card,Pending
+RET00127,ORD0001255,2023-11-08,Size Issue,6502.0,Cash,Refunded
+RET00128,ORD0001276,2022-09-05,Size Issue,540.0,Debit Card,Refunded
+RET00129,ORD0001280,2023-05-06,Duplicate Order,515.0,Debit Card,Refunded
+RET00130,ORD0001287,2022-04-24,Duplicate Order,10240.0,Credit Card,Rejected
+RET00131,ORD0001331,2024-07-28,Size Issue,456.0,Vodafone Cash,Refunded
+RET00132,ORD0001336,2022-07-26,Duplicate Order,432.0,Fawry,Refunded
+RET00133,ORD0001351,2022-09-09,Duplicate Order,12155.0,Fawry,Refunded
+RET00134,ORD0001356,2023-12-18,Duplicate Order,504.0,InstaPay,Pending
+RET00135,ORD0001374,2023-09-12,Defective Product,2140.0,Cash,Refunded
+RET00136,ORD0001376,2022-11-14,Size Issue,3040.0,InstaPay,Refunded
+RET00137,ORD0001401,2023-04-13,Quality Issue,266.0,Vodafone Cash,Refunded
+RET00138,ORD0001403,2024-10-14,Wrong Item Delivered,504.0,InstaPay,Refunded
+RET00139,ORD0001407,2022-03-03,Duplicate Order,270.0,Credit Card,Refunded
+RET00140,ORD0001408,2022-01-17,Duplicate Order,243.0,Credit Card,Refunded
+RET00141,ORD0001421,2023-03-31,Size Issue,1038.0,Credit Card,Refunded
+RET00142,ORD0001430,2023-04-06,Changed Mind,2996.0,Vodafone Cash,Refunded
+RET00143,ORD0001448,2024-09-01,Wrong Item Delivered,551.0,Cash,Refunded
+RET00144,ORD0001449,2022-10-28,Changed Mind,1000.0,Fawry,Refunded
+RET00145,ORD0001459,2024-06-06,Size Issue,1200.0,Credit Card,Refunded
+RET00146,ORD0001461,2024-07-30,Changed Mind,15494.0,Fawry,Refunded
+RET00147,ORD0001467,2024-05-23,Defective Product,280.0,Fawry,Refunded
+RET00148,ORD0001470,2022-02-22,Size Issue,2857.0,InstaPay,Refunded
+RET00149,ORD0001494,2022-12-18,Quality Issue,700.0,Cash,Refunded
+RET00150,ORD0001499,2022-12-14,Duplicate Order,252.0,Credit Card,Refunded
+RET00151,ORD0001502,2023-05-07,Changed Mind,26660.0,Vodafone Cash,Refunded
+RET00152,ORD0001503,2022-07-03,Changed Mind,199.5,Debit Card,Refunded
+RET00153,ORD0001504,2023-09-03,Quality Issue,3980.0,Vodafone Cash,Pending
+RET00154,ORD0001520,2022-03-03,Duplicate Order,1030.0,Debit Card,Refunded
+RET00155,ORD0001523,2022-10-11,Wrong Item Delivered,272.0,Debit Card,Refunded
+RET00156,ORD0001524,2022-02-03,Size Issue,1230.0,Fawry,Refunded
+RET00157,ORD0001546,2024-01-12,Quality Issue,578.0,Fawry,Refunded
+RET00158,ORD0001594,2022-11-19,Wrong Item Delivered,807.0,Cash,Refunded
+RET00159,ORD0001612,2024-01-03,Wrong Item Delivered,530.0,Fawry,Rejected
+RET00160,ORD0001613,2023-05-04,Size Issue,714.0,Debit Card,Refunded
+RET00161,ORD0001615,2024-05-06,Wrong Item Delivered,612.0,Cash,Pending
+RET00162,ORD0001633,2024-10-03,Quality Issue,2235.0,Cash,Refunded
+RET00163,ORD0001634,2024-04-18,Duplicate Order,822.0,Credit Card,Pending
+RET00164,ORD0001647,2024-05-14,Wrong Item Delivered,3220.0,Debit Card,Refunded
+RET00165,ORD0001649,2024-07-24,Duplicate Order,14775.0,Fawry,Pending
+RET00166,ORD0001652,2023-10-31,Duplicate Order,370.0,Credit Card,Pending
+RET00167,ORD0001653,2022-08-05,Wrong Item Delivered,1532.0,Cash,Refunded
+RET00168,ORD0001673,2022-10-03,Defective Product,610.0,Fawry,Refunded
+RET00169,ORD0001691,2023-07-18,Wrong Item Delivered,4222.0,Vodafone Cash,Refunded
+RET00170,ORD0001698,2024-09-27,Duplicate Order,2340.0,InstaPay,Refunded
+RET00171,ORD0001712,2023-10-31,Quality Issue,10900.0,Fawry,Refunded
+RET00172,ORD0001729,2023-12-16,Changed Mind,966.0,Cash,Refunded
+RET00173,ORD0001732,2024-10-10,Duplicate Order,520.0,InstaPay,Pending
+RET00174,ORD0001735,2022-05-11,Quality Issue,144.0,InstaPay,Refunded
+RET00175,ORD0001744,2024-03-01,Size Issue,3148.0,Credit Card,Pending
+RET00176,ORD0001745,2023-06-19,Size Issue,142.5,InstaPay,Pending
+RET00177,ORD0001752,2023-09-18,Duplicate Order,15029.0,Vodafone Cash,Refunded
+RET00178,ORD0001779,2024-04-12,Size Issue,105.0,Debit Card,Pending
+RET00179,ORD0001788,2022-01-24,Wrong Item Delivered,1664.0,Vodafone Cash,Refunded
+RET00180,ORD0001792,2024-11-07,Duplicate Order,1167.0,Cash,Refunded
+RET00181,ORD0001795,2024-04-26,Duplicate Order,1965.5,Cash,Rejected
+RET00182,ORD0001801,2022-04-27,Changed Mind,9960.0,InstaPay,Refunded
+RET00183,ORD0001825,2022-03-30,Defective Product,3980.0,Vodafone Cash,Pending
+RET00184,ORD0001831,2022-12-01,Duplicate Order,675.0,Cash,Refunded
+RET00185,ORD0001838,2024-11-03,Changed Mind,1860.0,Vodafone Cash,Refunded
+RET00186,ORD0001850,2023-12-06,Changed Mind,1175.0,Vodafone Cash,Refunded
+RET00187,ORD0001855,2023-09-20,Size Issue,504.0,Credit Card,Refunded
+RET00188,ORD0001856,2022-12-01,Defective Product,140.0,Debit Card,Pending
+RET00189,ORD0001861,2024-09-14,Quality Issue,2500.0,Credit Card,Refunded
+RET00190,ORD0001873,2022-12-29,Changed Mind,160.0,Debit Card,Refunded
+RET00191,ORD0001888,2022-08-26,Quality Issue,440.0,Cash,Pending
+RET00192,ORD0001906,2022-04-22,Changed Mind,345.0,Credit Card,Refunded
+RET00193,ORD0001908,2023-07-03,Wrong Item Delivered,336.0,Vodafone Cash,Refunded
+RET00194,ORD0001909,2024-07-03,Defective Product,350.0,InstaPay,Pending
+RET00195,ORD0001921,2024-11-09,Defective Product,460.0,Cash,Refunded
+RET00196,ORD0001922,2024-07-16,Wrong Item Delivered,1000.0,Debit Card,Refunded
+RET00197,ORD0001923,2022-01-09,Duplicate Order,2199.5,Debit Card,Rejected
+RET00198,ORD0001932,2024-04-13,Quality Issue,306.0,InstaPay,Pending
+RET00199,ORD0001956,2024-01-06,Duplicate Order,142.5,Vodafone Cash,Refunded
+RET00200,ORD0001962,2023-05-14,Size Issue,357.0,Fawry,Refunded
+RET00201,ORD0001981,2023-08-12,Size Issue,1560.0,Credit Card,Refunded
+RET00202,ORD0001986,2024-05-12,Defective Product,342.0,InstaPay,Refunded
+RET00203,ORD0001990,2023-09-14,Defective Product,247.0,Vodafone Cash,Refunded
+RET00204,ORD0001991,2023-05-14,Duplicate Order,4178.0,Cash,Refunded
+RET00205,ORD0001995,2022-11-06,Duplicate Order,545.5,Vodafone Cash,Refunded
+RET00206,ORD0002031,2024-10-03,Duplicate Order,1150.0,Cash,Pending
+RET00207,ORD0002049,2023-05-22,Quality Issue,779.0,Credit Card,Refunded
+RET00208,ORD0002050,2024-11-19,Defective Product,1498.0,Vodafone Cash,Refunded
+RET00209,ORD0002095,2022-11-30,Duplicate Order,550.0,Debit Card,Refunded
+RET00210,ORD0002103,2024-06-13,Duplicate Order,40500.0,Debit Card,Refunded
+RET00211,ORD0002105,2023-01-13,Duplicate Order,135.0,Debit Card,Refunded
+RET00212,ORD0002124,2023-10-09,Duplicate Order,2055.0,InstaPay,Refunded
+RET00213,ORD0002156,2024-05-17,Changed Mind,828.0,Credit Card,Refunded
+RET00214,ORD0002164,2022-02-03,Size Issue,2598.0,Fawry,Refunded
+RET00215,ORD0002185,2024-03-12,Quality Issue,207.0,Vodafone Cash,Refunded
+RET00216,ORD0002191,2024-11-24,Quality Issue,735.0,Credit Card,Refunded
+RET00217,ORD0002198,2024-12-05,Defective Product,95.0,Cash,Refunded
+RET00218,ORD0002200,2023-01-13,Changed Mind,126.0,Cash,Pending
+RET00219,ORD0002237,2024-02-24,Changed Mind,288.0,Vodafone Cash,Refunded
+RET00220,ORD0002239,2023-02-08,Defective Product,1080.0,Cash,Refunded
+RET00221,ORD0002244,2023-03-07,Defective Product,1230.0,Vodafone Cash,Refunded
+RET00222,ORD0002245,2024-01-21,Size Issue,1876.0,Credit Card,Refunded
+RET00223,ORD0002256,2022-09-09,Size Issue,2228.0,Credit Card,Refunded
+RET00224,ORD0002269,2022-10-05,Size Issue,540.0,Credit Card,Refunded
+RET00225,ORD0002270,2022-05-13,Wrong Item Delivered,18024.0,Cash,Refunded
+RET00226,ORD0002276,2024-02-25,Size Issue,2415.5,Fawry,Refunded
+RET00227,ORD0002313,2024-06-16,Duplicate Order,247.0,Credit Card,Refunded
+RET00228,ORD0002336,2022-10-04,Defective Product,2130.0,InstaPay,Pending
+RET00229,ORD0002348,2022-05-26,Size Issue,1350.0,Fawry,Refunded
+RET00230,ORD0002358,2023-03-20,Quality Issue,7356.0,Vodafone Cash,Refunded
+RET00231,ORD0002366,2022-04-20,Duplicate Order,560.0,Cash,Refunded
+RET00232,ORD0002384,2022-07-16,Wrong Item Delivered,220.0,Debit Card,Refunded
+RET00233,ORD0002406,2022-10-06,Size Issue,606.0,Fawry,Refunded
+RET00234,ORD0002410,2023-02-15,Defective Product,1500.0,Credit Card,Refunded
+RET00235,ORD0002428,2024-06-04,Duplicate Order,1627.0,Credit Card,Refunded
+RET00236,ORD0002430,2023-12-16,Quality Issue,549.0,Cash,Refunded
+RET00237,ORD0002447,2023-01-31,Changed Mind,781.0,Vodafone Cash,Refunded
+RET00238,ORD0002448,2022-07-12,Defective Product,2440.0,Cash,Pending
+RET00239,ORD0002450,2023-02-08,Size Issue,1139.0,InstaPay,Refunded
+RET00240,ORD0002478,2022-10-04,Changed Mind,50220.0,Vodafone Cash,Refunded
+RET00241,ORD0002489,2023-09-04,Changed Mind,300.0,Vodafone Cash,Refunded
+RET00242,ORD0002516,2024-11-23,Duplicate Order,3070.0,Vodafone Cash,Refunded
+RET00243,ORD0002525,2023-12-15,Quality Issue,128.0,Vodafone Cash,Refunded
+RET00244,ORD0002527,2022-01-10,Duplicate Order,140.0,Credit Card,Refunded
+RET00245,ORD0002529,2024-06-16,Changed Mind,2333.0,Vodafone Cash,Refunded
+RET00246,ORD0002530,2024-07-01,Duplicate Order,1846.0,Fawry,Refunded
+RET00247,ORD0002549,2022-02-20,Wrong Item Delivered,612.0,Cash,Refunded
+RET00248,ORD0002555,2022-12-23,Wrong Item Delivered,1111.0,Vodafone Cash,Rejected
+RET00249,ORD0002580,2022-11-10,Size Issue,2160.0,Vodafone Cash,Refunded
+RET00250,ORD0002588,2023-12-09,Duplicate Order,361.0,Fawry,Refunded
+RET00251,ORD0002592,2024-10-28,Duplicate Order,1904.5,InstaPay,Refunded
+RET00252,ORD0002619,2022-02-26,Quality Issue,171.0,Credit Card,Refunded
+RET00253,ORD0002642,2024-03-24,Quality Issue,1390.0,Debit Card,Refunded
+RET00254,ORD0002646,2023-04-04,Duplicate Order,800.0,Debit Card,Refunded
+RET00255,ORD0002650,2022-09-23,Defective Product,1260.0,Credit Card,Pending
+RET00256,ORD0002661,2022-04-26,Wrong Item Delivered,982.0,Credit Card,Pending
+RET00257,ORD0002667,2024-05-28,Quality Issue,1888.0,Fawry,Refunded
+RET00258,ORD0002675,2022-07-09,Wrong Item Delivered,432.0,Vodafone Cash,Pending
+RET00259,ORD0002697,2024-10-28,Defective Product,2360.0,InstaPay,Refunded
+RET00260,ORD0002704,2024-10-07,Size Issue,144.0,Credit Card,Refunded
+RET00261,ORD0002761,2023-11-15,Defective Product,360.0,Fawry,Refunded
+RET00262,ORD0002770,2023-04-21,Quality Issue,861.0,Debit Card,Refunded
+RET00263,ORD0002780,2022-11-28,Changed Mind,280.0,InstaPay,Refunded
+RET00264,ORD0002784,2024-01-28,Wrong Item Delivered,140.0,Debit Card,Refunded
+RET00265,ORD0002787,2024-07-10,Size Issue,1367.5,Credit Card,Refunded
+RET00266,ORD0002832,2024-01-25,Defective Product,1581.0,InstaPay,Refunded
+RET00267,ORD0002836,2024-12-16,Changed Mind,13339.5,InstaPay,Refunded
+RET00268,ORD0002840,2024-11-03,Changed Mind,1040.0,Debit Card,Refunded
+RET00269,ORD0002846,2024-05-13,Changed Mind,1600.0,InstaPay,Refunded
+RET00270,ORD0002860,2023-03-13,Size Issue,254.0,Cash,Refunded
+RET00271,ORD0002861,2024-01-07,Changed Mind,5302.0,Credit Card,Rejected
+RET00272,ORD0002872,2023-08-10,Defective Product,689.0,Debit Card,Rejected
+RET00273,ORD0002883,2024-08-27,Duplicate Order,9045.0,Debit Card,Pending
+RET00274,ORD0002906,2023-03-19,Size Issue,1054.0,Credit Card,Refunded
+RET00275,ORD0002908,2023-09-25,Changed Mind,780.0,Fawry,Refunded
+RET00276,ORD0002931,2024-01-31,Quality Issue,1180.0,Vodafone Cash,Refunded
+RET00277,ORD0002971,2023-03-18,Wrong Item Delivered,14250.0,Debit Card,Pending
+RET00278,ORD0002983,2024-12-05,Duplicate Order,912.0,Cash,Refunded
+RET00279,ORD0003013,2022-06-16,Quality Issue,674.5,InstaPay,Refunded
+RET00280,ORD0003014,2023-01-07,Size Issue,541.5,Debit Card,Refunded
+RET00281,ORD0003021,2023-10-20,Defective Product,1244.0,Cash,Refunded
+RET00282,ORD0003024,2024-12-16,Size Issue,413.0,Credit Card,Refunded
+RET00283,ORD0003046,2024-12-24,Size Issue,5864.0,InstaPay,Refunded
+RET00284,ORD0003047,2024-05-09,Quality Issue,15900.0,Cash,Refunded
+RET00285,ORD0003050,2022-01-31,Duplicate Order,954.0,Cash,Refunded
+RET00286,ORD0003051,2022-02-23,Changed Mind,682.0,Credit Card,Pending
+RET00287,ORD0003060,2023-09-01,Size Issue,2513.0,InstaPay,Pending
+RET00288,ORD0003077,2023-05-23,Quality Issue,6689.0,Debit Card,Refunded
+RET00289,ORD0003080,2024-12-16,Wrong Item Delivered,2920.0,Fawry,Refunded
+RET00290,ORD0003092,2022-04-04,Duplicate Order,586.0,Fawry,Refunded
+RET00291,ORD0003105,2022-04-25,Changed Mind,150.0,Debit Card,Refunded
+RET00292,ORD0003111,2022-03-03,Wrong Item Delivered,1043.5,Vodafone Cash,Refunded
+RET00293,ORD0003116,2023-02-11,Quality Issue,1269.0,Credit Card,Refunded
+RET00294,ORD0003117,2024-11-15,Size Issue,31110.0,Debit Card,Refunded
+RET00295,ORD0003121,2022-06-24,Quality Issue,648.0,Fawry,Refunded
+RET00296,ORD0003126,2024-09-17,Wrong Item Delivered,765.0,Cash,Refunded
+RET00297,ORD0003128,2022-05-30,Defective Product,210.0,Cash,Refunded
+RET00298,ORD0003135,2022-08-19,Size Issue,501.5,InstaPay,Refunded
+RET00299,ORD0003138,2022-06-30,Quality Issue,6459.0,Debit Card,Pending
+RET00300,ORD0003146,2023-10-25,Defective Product,990.0,InstaPay,Refunded
+RET00301,ORD0003147,2024-05-31,Changed Mind,408.0,Fawry,Refunded
+RET00302,ORD0003153,2024-12-11,Duplicate Order,5006.5,Vodafone Cash,Refunded
+RET00303,ORD0003159,2023-07-24,Duplicate Order,387.0,Credit Card,Refunded
+RET00304,ORD0003179,2022-04-11,Duplicate Order,160.0,InstaPay,Refunded
+RET00305,ORD0003180,2023-01-18,Quality Issue,418.0,Cash,Refunded
+RET00306,ORD0003209,2022-12-01,Size Issue,1412.0,Cash,Refunded
+RET00307,ORD0003220,2022-12-30,Changed Mind,260.0,Debit Card,Refunded
+RET00308,ORD0003231,2022-09-06,Defective Product,450.0,Cash,Refunded
+RET00309,ORD0003233,2022-05-27,Size Issue,144.0,Cash,Refunded
+RET00310,ORD0003248,2024-10-30,Changed Mind,180.0,Debit Card,Pending
+RET00311,ORD0003275,2023-01-26,Duplicate Order,310.0,InstaPay,Refunded
+RET00312,ORD0003286,2022-02-15,Duplicate Order,280.0,Cash,Refunded
+RET00313,ORD0003294,2024-06-25,Wrong Item Delivered,408.0,Cash,Refunded
+RET00314,ORD0003313,2024-10-17,Defective Product,459.5,Vodafone Cash,Refunded
+RET00315,ORD0003318,2024-03-12,Changed Mind,1310.0,Debit Card,Refunded
+RET00316,ORD0003319,2024-09-20,Changed Mind,360.0,Cash,Refunded
+RET00317,ORD0003322,2024-02-19,Wrong Item Delivered,1520.0,Fawry,Pending
+RET00318,ORD0003327,2024-08-05,Defective Product,1088.0,Vodafone Cash,Refunded
+RET00319,ORD0003335,2023-05-15,Duplicate Order,266.0,InstaPay,Pending
+RET00320,ORD0003350,2023-07-15,Duplicate Order,1001.0,Vodafone Cash,Rejected
+RET00321,ORD0003363,2022-06-30,Defective Product,602.0,Cash,Rejected
+RET00322,ORD0003426,2022-09-02,Size Issue,5584.0,Credit Card,Refunded
+RET00323,ORD0003431,2023-10-18,Wrong Item Delivered,288.0,InstaPay,Refunded
+RET00324,ORD0003445,2024-09-28,Duplicate Order,530.0,Vodafone Cash,Refunded
+RET00325,ORD0003456,2023-03-02,Wrong Item Delivered,400.0,Vodafone Cash,Refunded
+RET00326,ORD0003466,2024-12-28,Duplicate Order,45450.0,Cash,Refunded
+RET00327,ORD0003471,2023-06-30,Size Issue,972.5,InstaPay,Refunded
+RET00328,ORD0003498,2022-04-27,Wrong Item Delivered,1052.0,Debit Card,Refunded
+RET00329,ORD0003502,2024-11-04,Quality Issue,126.0,Debit Card,Rejected
+RET00330,ORD0003531,2022-05-18,Wrong Item Delivered,18592.5,Credit Card,Rejected
+RET00331,ORD0003535,2023-01-08,Wrong Item Delivered,140.0,Vodafone Cash,Refunded
+RET00332,ORD0003546,2022-11-27,Changed Mind,7087.0,Cash,Refunded
+RET00333,ORD0003554,2024-06-09,Wrong Item Delivered,18637.0,Cash,Pending
+RET00334,ORD0003564,2023-03-23,Size Issue,730.0,Vodafone Cash,Refunded
+RET00335,ORD0003573,2023-01-25,Defective Product,26580.0,InstaPay,Refunded
+RET00336,ORD0003590,2023-04-16,Duplicate Order,5900.0,Fawry,Rejected
+RET00337,ORD0003614,2022-03-05,Wrong Item Delivered,3756.0,Fawry,Refunded
+RET00338,ORD0003632,2024-09-10,Changed Mind,2193.0,Debit Card,Refunded
+RET00339,ORD0003638,2022-06-14,Quality Issue,1440.0,Vodafone Cash,Refunded
+RET00340,ORD0003680,2022-09-21,Wrong Item Delivered,600.0,InstaPay,Refunded
+RET00341,ORD0003710,2024-04-29,Wrong Item Delivered,755.0,Credit Card,Pending
+RET00342,ORD0003738,2024-07-12,Size Issue,252.0,Vodafone Cash,Refunded
+RET00343,ORD0003776,2023-04-29,Duplicate Order,300.0,Credit Card,Rejected
+RET00344,ORD0003778,2024-03-03,Wrong Item Delivered,500.0,InstaPay,Refunded
+RET00345,ORD0003791,2024-08-05,Defective Product,1934.0,Debit Card,Refunded
+RET00346,ORD0003795,2024-08-26,Defective Product,473.0,InstaPay,Refunded
+RET00347,ORD0003802,2022-08-06,Size Issue,49106.0,InstaPay,Refunded
+RET00348,ORD0003815,2022-10-01,Size Issue,1397.0,Vodafone Cash,Refunded
+RET00349,ORD0003818,2022-12-06,Duplicate Order,1600.0,Vodafone Cash,Refunded
+RET00350,ORD0003824,2022-08-31,Changed Mind,11920.0,Fawry,Refunded
+RET00351,ORD0003829,2023-05-20,Size Issue,1632.0,Debit Card,Refunded
+RET00352,ORD0003833,2023-08-21,Wrong Item Delivered,1044.0,Debit Card,Refunded
+RET00353,ORD0003835,2022-10-24,Changed Mind,1120.0,InstaPay,Refunded
+RET00354,ORD0003836,2022-10-05,Quality Issue,10775.0,Credit Card,Refunded
+RET00355,ORD0003838,2024-05-12,Duplicate Order,50397.0,Vodafone Cash,Refunded
+RET00356,ORD0003851,2023-11-19,Defective Product,153.0,Debit Card,Refunded
+RET00357,ORD0003853,2022-07-04,Defective Product,893.5,Vodafone Cash,Pending
+RET00358,ORD0003867,2022-12-02,Duplicate Order,520.0,Debit Card,Refunded
+RET00359,ORD0003885,2022-01-08,Quality Issue,2101.5,InstaPay,Refunded
+RET00360,ORD0003890,2023-12-18,Size Issue,9333.0,Credit Card,Refunded
+RET00361,ORD0003900,2022-01-27,Duplicate Order,880.0,InstaPay,Refunded
+RET00362,ORD0003907,2024-09-04,Defective Product,1504.0,Debit Card,Refunded
+RET00363,ORD0003917,2022-10-29,Size Issue,51260.0,Fawry,Refunded
+RET00364,ORD0003922,2022-09-21,Quality Issue,24759.0,Debit Card,Refunded
+RET00365,ORD0003935,2023-09-08,Wrong Item Delivered,160.0,Vodafone Cash,Pending
+RET00366,ORD0003947,2023-11-24,Changed Mind,11360.0,InstaPay,Refunded
+RET00367,ORD0003948,2022-08-29,Size Issue,161.5,Fawry,Refunded
+RET00368,ORD0003952,2023-03-27,Duplicate Order,399.0,Credit Card,Refunded
+RET00369,ORD0003964,2023-12-06,Defective Product,285.0,Fawry,Refunded
+RET00370,ORD0003967,2024-02-02,Quality Issue,2654.5,Cash,Refunded
+RET00371,ORD0003968,2024-11-08,Wrong Item Delivered,80.0,InstaPay,Refunded
+RET00372,ORD0003970,2024-02-19,Quality Issue,510.0,Cash,Refunded
+RET00373,ORD0003975,2024-08-07,Changed Mind,2744.0,Vodafone Cash,Refunded
+RET00374,ORD0003994,2024-02-14,Wrong Item Delivered,270.0,Cash,Pending
+RET00375,ORD0003997,2024-11-28,Wrong Item Delivered,2996.0,Credit Card,Refunded
+RET00376,ORD0004008,2024-07-11,Changed Mind,285.0,Fawry,Refunded
+RET00377,ORD0004022,2023-10-11,Duplicate Order,470.0,Cash,Refunded
+RET00378,ORD0004028,2022-06-05,Wrong Item Delivered,950.0,Fawry,Refunded
+RET00379,ORD0004034,2024-07-17,Size Issue,1962.0,Vodafone Cash,Pending
+RET00380,ORD0004052,2022-01-31,Defective Product,3742.0,Debit Card,Rejected
+RET00381,ORD0004063,2023-02-10,Changed Mind,2440.0,Credit Card,Refunded
+RET00382,ORD0004141,2024-07-09,Quality Issue,587.0,Debit Card,Refunded
+RET00383,ORD0004168,2022-11-05,Size Issue,1476.5,Debit Card,Refunded
+RET00384,ORD0004175,2023-06-08,Wrong Item Delivered,750.0,Credit Card,Refunded
+RET00385,ORD0004194,2024-01-25,Quality Issue,21288.0,Cash,Refunded
+RET00386,ORD0004196,2024-09-23,Quality Issue,263.5,Cash,Refunded
+RET00387,ORD0004201,2022-06-12,Changed Mind,190.0,Cash,Refunded
+RET00388,ORD0004206,2022-11-14,Quality Issue,39450.0,Credit Card,Refunded
+RET00389,ORD0004216,2023-04-08,Size Issue,531.0,Vodafone Cash,Pending
+RET00390,ORD0004218,2024-09-19,Quality Issue,1246.5,Cash,Refunded
+RET00391,ORD0004227,2024-05-17,Defective Product,2154.0,Credit Card,Refunded
+RET00392,ORD0004243,2022-06-13,Size Issue,731.5,Debit Card,Refunded
+RET00393,ORD0004248,2023-06-11,Duplicate Order,2232.0,InstaPay,Refunded
+RET00394,ORD0004269,2023-09-13,Changed Mind,378.0,Cash,Refunded
+RET00395,ORD0004286,2024-04-24,Duplicate Order,5640.0,Cash,Refunded
+RET00396,ORD0004314,2023-08-21,Wrong Item Delivered,2400.0,Fawry,Pending
+RET00397,ORD0004327,2023-12-29,Changed Mind,627.0,InstaPay,Refunded
+RET00398,ORD0004353,2023-11-16,Wrong Item Delivered,1838.5,Vodafone Cash,Refunded
+RET00399,ORD0004360,2023-11-21,Size Issue,441.0,Fawry,Refunded
+RET00400,ORD0004363,2023-05-03,Defective Product,223.5,Debit Card,Refunded
+RET00401,ORD0004385,2023-09-11,Changed Mind,364.0,Fawry,Rejected
+RET00402,ORD0004399,2023-06-19,Changed Mind,1872.0,Fawry,Refunded
+RET00403,ORD0004409,2023-11-04,Defective Product,378.0,Debit Card,Refunded
+RET00404,ORD0004417,2023-03-17,Duplicate Order,225.0,InstaPay,Refunded
+RET00405,ORD0004423,2023-06-10,Wrong Item Delivered,228.0,InstaPay,Pending
+RET00406,ORD0004426,2024-09-09,Changed Mind,10392.0,Vodafone Cash,Refunded
+RET00407,ORD0004445,2022-07-10,Quality Issue,2366.0,Cash,Rejected
+RET00408,ORD0004447,2022-09-20,Wrong Item Delivered,190.0,Vodafone Cash,Pending
+RET00409,ORD0004494,2022-03-21,Duplicate Order,804.0,Credit Card,Refunded
+RET00410,ORD0004503,2023-12-09,Quality Issue,21450.0,Debit Card,Refunded
+RET00411,ORD0004509,2022-05-04,Size Issue,9333.0,Fawry,Refunded
+RET00412,ORD0004510,2023-07-22,Quality Issue,270.0,Cash,Refunded
+RET00413,ORD0004519,2023-06-23,Quality Issue,1271.5,Fawry,Refunded
+RET00414,ORD0004526,2022-08-13,Size Issue,980.0,InstaPay,Refunded
+RET00415,ORD0004535,2022-08-04,Wrong Item Delivered,38766.0,InstaPay,Refunded
+RET00416,ORD0004543,2022-10-06,Changed Mind,1884.5,Cash,Rejected
+RET00417,ORD0004544,2024-05-17,Wrong Item Delivered,690.0,Debit Card,Refunded
+RET00418,ORD0004579,2023-03-10,Quality Issue,2337.5,InstaPay,Refunded
+RET00419,ORD0004582,2023-09-01,Quality Issue,1650.0,Cash,Rejected
+RET00420,ORD0004607,2022-10-19,Defective Product,835.5,Credit Card,Refunded
+RET00421,ORD0004609,2023-12-17,Wrong Item Delivered,21390.0,Cash,Rejected
+RET00422,ORD0004633,2023-04-08,Changed Mind,504.0,InstaPay,Refunded
+RET00423,ORD0004647,2023-10-05,Defective Product,536.0,Credit Card,Refunded
+RET00424,ORD0004656,2024-07-25,Changed Mind,3049.0,Debit Card,Refunded
+RET00425,ORD0004668,2024-11-15,Wrong Item Delivered,1776.5,Credit Card,Refunded
+RET00426,ORD0004681,2022-05-20,Changed Mind,8900.0,Fawry,Refunded
+RET00427,ORD0004684,2024-08-31,Defective Product,468.0,Credit Card,Refunded
+RET00428,ORD0004715,2023-10-24,Changed Mind,95870.0,Cash,Refunded
+RET00429,ORD0004719,2024-08-04,Duplicate Order,8010.0,Credit Card,Refunded
+RET00430,ORD0004729,2024-05-01,Duplicate Order,260.0,Debit Card,Rejected
+RET00431,ORD0004732,2024-07-05,Size Issue,3216.0,Debit Card,Refunded
+RET00432,ORD0004741,2023-12-20,Changed Mind,5872.0,Credit Card,Pending
+RET00433,ORD0004745,2022-06-07,Wrong Item Delivered,210.0,Vodafone Cash,Refunded
+RET00434,ORD0004753,2022-05-30,Changed Mind,120.0,Cash,Refunded
+RET00435,ORD0004756,2023-02-03,Duplicate Order,210.0,Fawry,Refunded
+RET00436,ORD0004772,2023-02-02,Size Issue,1962.5,Credit Card,Refunded
+RET00437,ORD0004789,2023-07-21,Duplicate Order,2542.0,Cash,Pending
+RET00438,ORD0004802,2023-05-23,Duplicate Order,579.5,Vodafone Cash,Refunded
+RET00439,ORD0004803,2024-12-04,Size Issue,127.5,Fawry,Refunded
+RET00440,ORD0004806,2024-01-22,Defective Product,437.0,Cash,Refunded
+RET00441,ORD0004822,2022-03-04,Wrong Item Delivered,337.5,Fawry,Rejected
+RET00442,ORD0004824,2022-10-19,Size Issue,1170.0,Vodafone Cash,Refunded
+RET00443,ORD0004832,2022-10-21,Size Issue,24260.0,Credit Card,Refunded
+RET00444,ORD0004844,2023-09-07,Duplicate Order,45143.0,Fawry,Refunded
+RET00445,ORD0004860,2023-02-13,Quality Issue,120.0,Fawry,Rejected
+RET00446,ORD0004884,2023-09-18,Wrong Item Delivered,384.0,Credit Card,Rejected
+RET00447,ORD0004885,2023-06-20,Changed Mind,5945.0,Fawry,Pending
+RET00448,ORD0004895,2024-06-13,Wrong Item Delivered,12025.0,Vodafone Cash,Refunded
+RET00449,ORD0004897,2022-04-18,Wrong Item Delivered,991.0,InstaPay,Refunded
+RET00450,ORD0004906,2022-08-28,Changed Mind,1046.5,Cash,Refunded
+RET00451,ORD0004931,2022-09-08,Quality Issue,672.0,Debit Card,Refunded
+RET00452,ORD0004953,2023-02-25,Quality Issue,612.0,Credit Card,Refunded
+RET00453,ORD0004958,2023-07-21,Defective Product,35640.0,Cash,Refunded
+RET00454,ORD0004974,2024-04-07,Duplicate Order,990.0,Cash,Rejected
+RET00455,ORD0004989,2024-01-06,Duplicate Order,700.0,Vodafone Cash,Refunded
+RET00456,ORD0004991,2023-05-17,Quality Issue,5756.0,Fawry,Refunded
+RET00457,ORD0005003,2024-01-15,Defective Product,513.0,Debit Card,Refunded
+RET00458,ORD0005010,2023-02-24,Defective Product,450.0,Credit Card,Refunded
+RET00459,ORD0005016,2022-04-08,Duplicate Order,712.0,Vodafone Cash,Pending
+RET00460,ORD0005040,2024-10-06,Changed Mind,437.0,Fawry,Rejected
+RET00461,ORD0005042,2022-12-15,Defective Product,909.0,Cash,Pending
+RET00462,ORD0005048,2023-05-26,Wrong Item Delivered,567.0,Vodafone Cash,Refunded
+RET00463,ORD0005051,2024-12-08,Defective Product,1033.5,Credit Card,Refunded
+RET00464,ORD0005076,2024-04-10,Quality Issue,140.0,Debit Card,Refunded
+RET00465,ORD0005087,2023-01-28,Quality Issue,81.0,Fawry,Rejected
+RET00466,ORD0005093,2023-12-13,Quality Issue,716.0,Debit Card,Pending
+RET00467,ORD0005098,2023-04-27,Duplicate Order,1264.0,Vodafone Cash,Pending
+RET00468,ORD0005122,2024-01-31,Changed Mind,546.0,Vodafone Cash,Refunded
+RET00469,ORD0005156,2024-05-08,Duplicate Order,1051.0,Vodafone Cash,Pending
+RET00470,ORD0005166,2023-12-09,Quality Issue,180.0,Debit Card,Rejected
+RET00471,ORD0005169,2023-07-05,Duplicate Order,230.0,InstaPay,Refunded
+RET00472,ORD0005191,2024-12-14,Duplicate Order,1280.0,Cash,Refunded
+RET00473,ORD0005204,2022-09-13,Wrong Item Delivered,1440.0,Fawry,Pending
+RET00474,ORD0005207,2022-02-01,Defective Product,895.0,Vodafone Cash,Refunded
+RET00475,ORD0005219,2022-12-04,Defective Product,1752.0,Credit Card,Pending
+RET00476,ORD0005223,2024-01-30,Wrong Item Delivered,592.0,Vodafone Cash,Refunded
+RET00477,ORD0005232,2022-07-02,Wrong Item Delivered,1175.5,Credit Card,Refunded
+RET00478,ORD0005234,2022-10-11,Duplicate Order,993.0,InstaPay,Refunded
+RET00479,ORD0005241,2023-03-03,Duplicate Order,2380.0,Debit Card,Refunded
+RET00480,ORD0005247,2024-06-17,Duplicate Order,15725.0,Cash,Refunded
+RET00481,ORD0005248,2024-08-22,Wrong Item Delivered,20689.0,Credit Card,Refunded
+RET00482,ORD0005257,2024-06-30,Defective Product,1200.0,Cash,Refunded
+RET00483,ORD0005258,2024-07-11,Quality Issue,117.0,InstaPay,Refunded
+RET00484,ORD0005268,2023-11-15,Size Issue,255.0,Cash,Refunded
+RET00485,ORD0005274,2023-07-27,Size Issue,21161.0,InstaPay,Refunded
+RET00486,ORD0005279,2023-12-13,Quality Issue,920.0,Credit Card,Refunded
+RET00487,ORD0005283,2022-10-04,Defective Product,1288.0,Vodafone Cash,Refunded
+RET00488,ORD0005289,2024-10-02,Duplicate Order,14700.0,Cash,Refunded
+RET00489,ORD0005293,2024-05-05,Defective Product,144.0,Cash,Refunded
+RET00490,ORD0005305,2024-09-13,Quality Issue,420.0,Cash,Refunded
+RET00491,ORD0005353,2022-11-16,Changed Mind,11824.0,Vodafone Cash,Refunded
+RET00492,ORD0005376,2024-04-29,Changed Mind,300.0,Fawry,Refunded
+RET00493,ORD0005379,2023-03-26,Changed Mind,1785.5,Cash,Refunded
+RET00494,ORD0005393,2023-01-05,Size Issue,456.0,Credit Card,Rejected
+RET00495,ORD0005406,2023-01-05,Defective Product,270.0,Debit Card,Refunded
+RET00496,ORD0005419,2023-02-23,Changed Mind,18180.0,Credit Card,Refunded
+RET00497,ORD0005425,2023-04-09,Changed Mind,280.5,InstaPay,Refunded
+RET00498,ORD0005428,2023-07-27,Size Issue,590.5,Debit Card,Pending
+RET00499,ORD0005429,2024-12-31,Defective Product,1435.5,Fawry,Refunded
+RET00500,ORD0005436,2024-04-27,Changed Mind,615.0,Credit Card,Pending
+RET00501,ORD0005438,2022-02-08,Wrong Item Delivered,208.0,Debit Card,Refunded
+RET00502,ORD0005452,2023-04-06,Size Issue,507.5,Debit Card,Refunded
+RET00503,ORD0005458,2024-10-20,Size Issue,693.0,Vodafone Cash,Refunded
+RET00504,ORD0005461,2024-07-30,Duplicate Order,2927.0,Debit Card,Refunded
+RET00505,ORD0005495,2022-04-16,Size Issue,2170.0,Fawry,Pending
+RET00506,ORD0005524,2022-08-13,Changed Mind,684.0,Debit Card,Refunded
+RET00507,ORD0005546,2022-09-11,Duplicate Order,655.5,InstaPay,Pending
+RET00508,ORD0005552,2024-01-05,Changed Mind,405.0,Vodafone Cash,Refunded
+RET00509,ORD0005564,2022-03-22,Defective Product,1052.0,InstaPay,Pending
+RET00510,ORD0005585,2023-12-15,Defective Product,760.0,Fawry,Refunded
+RET00511,ORD0005602,2023-09-08,Duplicate Order,520.0,Fawry,Pending
+RET00512,ORD0005603,2022-04-10,Changed Mind,3920.0,Cash,Refunded
+RET00513,ORD0005620,2022-03-20,Quality Issue,11334.0,Cash,Refunded
+RET00514,ORD0005621,2024-09-02,Defective Product,270.0,InstaPay,Refunded
+RET00515,ORD0005646,2024-07-10,Size Issue,1288.5,Cash,Pending
+RET00516,ORD0005673,2022-03-17,Wrong Item Delivered,810.0,Vodafone Cash,Refunded
+RET00517,ORD0005675,2024-05-19,Duplicate Order,3705.0,Fawry,Refunded
+RET00518,ORD0005679,2022-08-10,Defective Product,13360.0,Fawry,Refunded
+RET00519,ORD0005685,2022-09-10,Changed Mind,370.0,InstaPay,Refunded
+RET00520,ORD0005687,2023-06-16,Size Issue,1153.0,InstaPay,Refunded
+RET00521,ORD0005688,2023-10-08,Size Issue,2080.0,Vodafone Cash,Refunded
+RET00522,ORD0005698,2022-01-13,Quality Issue,522.0,Debit Card,Rejected
+RET00523,ORD0005700,2024-08-25,Changed Mind,494.0,InstaPay,Refunded
+RET00524,ORD0005706,2023-06-25,Duplicate Order,1080.0,Debit Card,Refunded
+RET00525,ORD0005710,2022-10-18,Quality Issue,720.0,Fawry,Pending
+RET00526,ORD0005723,2024-08-18,Wrong Item Delivered,2932.0,Debit Card,Pending
+RET00527,ORD0005743,2024-12-30,Quality Issue,1410.0,Debit Card,Pending
+RET00528,ORD0005755,2023-02-04,Quality Issue,450.0,InstaPay,Refunded
+RET00529,ORD0005756,2022-12-29,Size Issue,162.0,InstaPay,Refunded
+RET00530,ORD0005760,2023-10-20,Duplicate Order,160.0,Cash,Refunded
+RET00531,ORD0005778,2022-01-24,Changed Mind,2888.0,Fawry,Refunded
+RET00532,ORD0005780,2022-03-08,Wrong Item Delivered,12788.5,Credit Card,Pending
+RET00533,ORD0005781,2023-07-13,Duplicate Order,140.0,Vodafone Cash,Refunded
+RET00534,ORD0005789,2024-08-18,Changed Mind,19800.0,InstaPay,Rejected
+RET00535,ORD0005791,2022-04-17,Duplicate Order,700.0,Vodafone Cash,Refunded
+RET00536,ORD0005795,2024-04-13,Size Issue,142.5,InstaPay,Refunded
+RET00537,ORD0005812,2022-07-28,Changed Mind,300.0,InstaPay,Refunded
+RET00538,ORD0005813,2024-08-13,Changed Mind,11071.0,Fawry,Refunded
+RET00539,ORD0005828,2023-05-26,Duplicate Order,12540.0,Fawry,Refunded
+RET00540,ORD0005830,2023-06-17,Size Issue,2528.0,Fawry,Refunded
+RET00541,ORD0005835,2022-09-07,Defective Product,142.5,Vodafone Cash,Refunded
+RET00542,ORD0005849,2023-05-06,Quality Issue,851.0,InstaPay,Refunded
+RET00543,ORD0005863,2023-03-13,Size Issue,2800.0,InstaPay,Refunded
+RET00544,ORD0005874,2022-07-29,Changed Mind,160.0,Fawry,Refunded
+RET00545,ORD0005879,2024-02-27,Wrong Item Delivered,756.0,Fawry,Refunded
+RET00546,ORD0005890,2022-11-26,Quality Issue,1880.0,Fawry,Refunded
+RET00547,ORD0005891,2022-05-04,Size Issue,468.0,InstaPay,Refunded
+RET00548,ORD0005898,2024-09-05,Defective Product,1967.0,Debit Card,Pending
+RET00549,ORD0005902,2022-09-10,Changed Mind,782.0,Vodafone Cash,Refunded
+RET00550,ORD0005923,2022-12-29,Quality Issue,2125.5,InstaPay,Rejected
+RET00551,ORD0005941,2024-05-19,Wrong Item Delivered,2717.5,Cash,Refunded
+RET00552,ORD0005963,2022-08-11,Quality Issue,640.0,Debit Card,Refunded
+RET00553,ORD0005997,2022-12-27,Defective Product,840.0,Vodafone Cash,Refunded
+RET00554,ORD0006005,2022-04-26,Size Issue,127.5,Vodafone Cash,Refunded
+RET00555,ORD0006007,2024-09-01,Size Issue,581.0,Cash,Refunded
+RET00556,ORD0006009,2023-09-14,Defective Product,399.0,Debit Card,Refunded
+RET00557,ORD0006011,2023-01-10,Defective Product,1140.0,Credit Card,Refunded
+RET00558,ORD0006013,2024-04-01,Quality Issue,140.0,Debit Card,Refunded
+RET00559,ORD0006041,2023-07-22,Size Issue,360.0,Credit Card,Refunded
+RET00560,ORD0006053,2022-08-29,Quality Issue,3003.0,Vodafone Cash,Pending
+RET00561,ORD0006056,2024-11-16,Wrong Item Delivered,1657.0,InstaPay,Refunded
+RET00562,ORD0006057,2024-10-08,Size Issue,13080.0,Vodafone Cash,Refunded
+RET00563,ORD0006072,2023-07-18,Defective Product,130.0,Debit Card,Refunded
+RET00564,ORD0006089,2022-11-14,Defective Product,850.0,Debit Card,Refunded
+RET00565,ORD0006094,2024-06-09,Wrong Item Delivered,2535.0,Credit Card,Refunded
+RET00566,ORD0006109,2024-06-30,Wrong Item Delivered,1356.0,Vodafone Cash,Refunded
+RET00567,ORD0006126,2022-05-15,Wrong Item Delivered,624.0,Fawry,Refunded
+RET00568,ORD0006143,2024-04-08,Duplicate Order,280.0,InstaPay,Refunded
+RET00569,ORD0006156,2023-12-06,Defective Product,3422.5,Cash,Refunded
+RET00570,ORD0006164,2022-09-30,Size Issue,480.0,Debit Card,Refunded
+RET00571,ORD0006167,2023-12-01,Wrong Item Delivered,1120.0,Fawry,Refunded
+RET00572,ORD0006182,2022-05-28,Changed Mind,1230.0,InstaPay,Refunded
+RET00573,ORD0006187,2023-04-14,Size Issue,873.0,Credit Card,Refunded
+RET00574,ORD0006200,2024-04-25,Size Issue,1052.0,Credit Card,Refunded
+RET00575,ORD0006214,2022-03-18,Changed Mind,1158.0,InstaPay,Refunded
+RET00576,ORD0006231,2023-01-16,Duplicate Order,680.0,Vodafone Cash,Refunded
+RET00577,ORD0006270,2022-05-26,Defective Product,272.0,Cash,Refunded
+RET00578,ORD0006279,2024-07-13,Defective Product,231.0,Credit Card,Refunded
+RET00579,ORD0006284,2023-04-02,Size Issue,1938.0,Fawry,Rejected
+RET00580,ORD0006296,2024-04-24,Defective Product,764.0,Cash,Refunded
+RET00581,ORD0006306,2022-08-10,Size Issue,333.0,InstaPay,Pending
+RET00582,ORD0006309,2024-07-15,Defective Product,190.0,Cash,Refunded
+RET00583,ORD0006325,2024-09-24,Defective Product,720.0,Fawry,Refunded
+RET00584,ORD0006326,2024-06-24,Defective Product,11740.0,InstaPay,Refunded
+RET00585,ORD0006338,2023-02-12,Size Issue,1660.0,Vodafone Cash,Refunded
+RET00586,ORD0006344,2023-12-09,Defective Product,142.5,Cash,Pending
+RET00587,ORD0006351,2022-04-05,Wrong Item Delivered,1434.0,Fawry,Refunded
+RET00588,ORD0006371,2023-04-13,Wrong Item Delivered,598.0,Cash,Refunded
+RET00589,ORD0006390,2024-01-08,Changed Mind,980.0,Debit Card,Refunded
+RET00590,ORD0006393,2023-07-14,Changed Mind,287.0,Credit Card,Pending
+RET00591,ORD0006402,2023-05-29,Wrong Item Delivered,1326.5,Fawry,Pending
+RET00592,ORD0006410,2022-01-29,Defective Product,453.0,InstaPay,Refunded
+RET00593,ORD0006424,2022-12-23,Defective Product,2180.0,Vodafone Cash,Refunded
+RET00594,ORD0006430,2022-04-04,Changed Mind,128.0,Vodafone Cash,Refunded
+RET00595,ORD0006431,2024-08-02,Defective Product,17575.0,Debit Card,Refunded
+RET00596,ORD0006433,2024-01-14,Duplicate Order,306.0,Fawry,Refunded
+RET00597,ORD0006436,2022-05-26,Changed Mind,37740.0,Debit Card,Refunded
+RET00598,ORD0006463,2024-11-28,Duplicate Order,1076.0,InstaPay,Pending
+RET00599,ORD0006479,2024-09-05,Duplicate Order,855.0,Credit Card,Refunded
+RET00600,ORD0006486,2024-05-13,Quality Issue,828.0,Credit Card,Refunded
+RET00601,ORD0006488,2022-01-19,Changed Mind,863.0,Fawry,Refunded
+RET00602,ORD0006519,2024-12-15,Defective Product,860.0,Cash,Refunded
+RET00603,ORD0006520,2024-11-13,Quality Issue,731.5,Fawry,Pending
+RET00604,ORD0006561,2024-07-09,Size Issue,32885.0,Credit Card,Refunded
+RET00605,ORD0006562,2024-11-21,Quality Issue,1930.0,Debit Card,Refunded
+RET00606,ORD0006580,2024-04-17,Duplicate Order,18033.0,InstaPay,Rejected
+RET00607,ORD0006591,2022-09-16,Wrong Item Delivered,5000.0,Debit Card,Refunded
+RET00608,ORD0006598,2022-09-12,Defective Product,1870.0,Vodafone Cash,Refunded
+RET00609,ORD0006599,2024-11-04,Wrong Item Delivered,2240.0,Vodafone Cash,Refunded
+RET00610,ORD0006611,2023-05-03,Wrong Item Delivered,1250.0,Cash,Refunded
+RET00611,ORD0006645,2022-06-19,Quality Issue,520.0,InstaPay,Refunded
+RET00612,ORD0006668,2023-03-14,Size Issue,1449.0,Vodafone Cash,Rejected
+RET00613,ORD0006670,2022-02-24,Wrong Item Delivered,740.0,Debit Card,Pending
+RET00614,ORD0006678,2023-05-25,Wrong Item Delivered,1554.0,Cash,Refunded
+RET00615,ORD0006694,2024-10-28,Changed Mind,3994.0,Credit Card,Refunded
+RET00616,ORD0006696,2023-11-04,Quality Issue,13989.0,Credit Card,Refunded
+RET00617,ORD0006698,2023-10-11,Defective Product,1445.5,Cash,Refunded
+RET00618,ORD0006725,2022-10-04,Wrong Item Delivered,370.0,InstaPay,Refunded
+RET00619,ORD0006726,2024-06-09,Size Issue,864.0,Debit Card,Refunded
+RET00620,ORD0006736,2023-09-20,Changed Mind,1290.0,Cash,Refunded
+RET00621,ORD0006758,2023-07-13,Defective Product,960.0,Credit Card,Refunded
+RET00622,ORD0006770,2023-07-06,Duplicate Order,700.0,InstaPay,Rejected
+RET00623,ORD0006785,2024-07-13,Wrong Item Delivered,20628.0,Fawry,Refunded
+RET00624,ORD0006800,2023-05-31,Defective Product,1394.0,Fawry,Rejected
+RET00625,ORD0006804,2023-03-14,Wrong Item Delivered,1184.0,Cash,Refunded
+RET00626,ORD0006807,2024-03-30,Wrong Item Delivered,1496.0,Fawry,Refunded
+RET00627,ORD0006823,2022-10-15,Defective Product,322.5,Vodafone Cash,Refunded
+RET00628,ORD0006845,2023-04-01,Wrong Item Delivered,399.5,Cash,Refunded
+RET00629,ORD0006851,2024-07-12,Defective Product,160.0,Credit Card,Refunded
+RET00630,ORD0006866,2024-03-27,Quality Issue,2460.0,Credit Card,Refunded
+RET00631,ORD0006877,2023-01-13,Changed Mind,320.0,Fawry,Pending
+RET00632,ORD0006880,2023-02-11,Duplicate Order,260.0,Fawry,Refunded
+RET00633,ORD0006883,2022-04-24,Duplicate Order,3720.0,Cash,Rejected
+RET00634,ORD0006922,2024-04-19,Defective Product,2253.5,Debit Card,Refunded
+RET00635,ORD0006953,2023-09-21,Quality Issue,136.0,Cash,Pending
+RET00636,ORD0006961,2024-11-18,Defective Product,456.0,Cash,Refunded
+RET00637,ORD0006963,2022-03-13,Defective Product,12665.0,Vodafone Cash,Pending
+RET00638,ORD0006964,2022-10-16,Defective Product,8109.5,Cash,Rejected
+RET00639,ORD0006983,2022-12-11,Changed Mind,380.0,Debit Card,Refunded
+RET00640,ORD0006995,2022-08-14,Quality Issue,90.0,Cash,Refunded
+RET00641,ORD0007003,2024-03-26,Defective Product,698.0,Cash,Pending
+RET00642,ORD0007009,2024-01-28,Changed Mind,1004.0,Vodafone Cash,Refunded
+RET00643,ORD0007012,2022-01-13,Defective Product,270.0,InstaPay,Pending
+RET00644,ORD0007024,2022-07-19,Changed Mind,480.0,InstaPay,Refunded
+RET00645,ORD0007026,2022-04-29,Defective Product,1180.0,Credit Card,Refunded
+RET00646,ORD0007047,2024-07-01,Defective Product,408.0,Cash,Refunded
+RET00647,ORD0007059,2022-01-26,Duplicate Order,1327.0,Debit Card,Pending
+RET00648,ORD0007060,2022-04-19,Wrong Item Delivered,1036.0,Cash,Refunded
+RET00649,ORD0007061,2023-07-23,Wrong Item Delivered,1372.0,Credit Card,Rejected
+RET00650,ORD0007063,2023-07-27,Defective Product,1171.0,Vodafone Cash,Pending
+RET00651,ORD0007065,2023-11-24,Duplicate Order,1136.0,InstaPay,Pending
+RET00652,ORD0007076,2022-07-25,Duplicate Order,720.0,Fawry,Refunded
+RET00653,ORD0007104,2023-05-12,Size Issue,532.0,Cash,Refunded
+RET00654,ORD0007105,2023-09-07,Changed Mind,840.0,Fawry,Refunded
+RET00655,ORD0007112,2023-10-02,Quality Issue,1216.0,Cash,Refunded
+RET00656,ORD0007121,2024-02-23,Wrong Item Delivered,936.5,Cash,Refunded
+RET00657,ORD0007128,2022-09-15,Size Issue,6224.0,Vodafone Cash,Refunded
+RET00658,ORD0007129,2022-02-17,Quality Issue,180.0,Debit Card,Refunded
+RET00659,ORD0007135,2022-10-06,Quality Issue,350.0,Vodafone Cash,Refunded
+RET00660,ORD0007177,2022-05-06,Size Issue,119.0,Fawry,Pending
+RET00661,ORD0007202,2024-01-17,Wrong Item Delivered,1043.0,Vodafone Cash,Refunded
+RET00662,ORD0007216,2023-01-13,Quality Issue,1848.0,Credit Card,Refunded
+RET00663,ORD0007223,2023-07-12,Duplicate Order,300.0,InstaPay,Refunded
+RET00664,ORD0007274,2022-11-20,Defective Product,911.0,Credit Card,Refunded
+RET00665,ORD0007281,2023-08-15,Wrong Item Delivered,699.0,Cash,Rejected
+RET00666,ORD0007293,2022-03-24,Duplicate Order,6847.0,Cash,Refunded
+RET00667,ORD0007315,2022-02-08,Quality Issue,321.0,Vodafone Cash,Refunded
+RET00668,ORD0007349,2023-10-12,Size Issue,1441.0,Cash,Refunded
+RET00669,ORD0007375,2024-03-16,Changed Mind,28688.0,InstaPay,Rejected
+RET00670,ORD0007382,2022-10-18,Wrong Item Delivered,577.5,Debit Card,Refunded
+RET00671,ORD0007390,2023-07-13,Duplicate Order,1026.0,Credit Card,Refunded
+RET00672,ORD0007392,2022-04-10,Wrong Item Delivered,544.0,InstaPay,Refunded
+RET00673,ORD0007424,2024-03-04,Size Issue,2580.0,Debit Card,Pending
+RET00674,ORD0007426,2022-10-13,Wrong Item Delivered,450.0,Cash,Pending
+RET00675,ORD0007438,2023-10-30,Quality Issue,1475.0,Credit Card,Refunded
+RET00676,ORD0007448,2022-03-08,Wrong Item Delivered,1738.5,InstaPay,Refunded
+RET00677,ORD0007478,2024-05-18,Size Issue,936.0,Fawry,Refunded
+RET00678,ORD0007490,2023-11-28,Wrong Item Delivered,3042.5,Credit Card,Refunded
+RET00679,ORD0007526,2024-05-01,Duplicate Order,144.0,Vodafone Cash,Refunded
+RET00680,ORD0007527,2024-03-29,Quality Issue,853.0,Credit Card,Pending
+RET00681,ORD0007534,2023-08-25,Quality Issue,127.5,Fawry,Refunded
+RET00682,ORD0007542,2022-10-04,Size Issue,13340.0,Debit Card,Refunded
+RET00683,ORD0007543,2022-11-09,Changed Mind,1672.5,Credit Card,Refunded
+RET00684,ORD0007553,2022-01-27,Quality Issue,457.0,Debit Card,Refunded
+RET00685,ORD0007563,2023-09-19,Defective Product,459.0,Fawry,Refunded
+RET00686,ORD0007565,2022-03-28,Defective Product,1976.0,Vodafone Cash,Pending
+RET00687,ORD0007579,2022-04-27,Changed Mind,319.5,InstaPay,Refunded
+RET00688,ORD0007596,2023-08-25,Wrong Item Delivered,1310.0,InstaPay,Pending
+RET00689,ORD0007607,2023-07-21,Wrong Item Delivered,2760.0,Fawry,Refunded
+RET00690,ORD0007624,2023-04-30,Changed Mind,2040.0,Fawry,Refunded
+RET00691,ORD0007640,2022-12-26,Quality Issue,750.0,Debit Card,Rejected
+RET00692,ORD0007671,2024-12-29,Size Issue,1072.5,Debit Card,Refunded
+RET00693,ORD0007674,2024-09-25,Duplicate Order,1435.5,Debit Card,Refunded
+RET00694,ORD0007689,2024-04-29,Defective Product,15300.0,Cash,Refunded
+RET00695,ORD0007691,2023-07-10,Changed Mind,513.0,Vodafone Cash,Rejected
+RET00696,ORD0007708,2022-08-06,Defective Product,1256.0,InstaPay,Refunded
+RET00697,ORD0007713,2023-03-29,Duplicate Order,378.0,Credit Card,Refunded
+RET00698,ORD0007718,2024-12-31,Defective Product,747.0,Fawry,Refunded
+RET00699,ORD0007725,2022-06-28,Quality Issue,700.0,Vodafone Cash,Refunded
+RET00700,ORD0007739,2023-12-17,Changed Mind,2890.0,Fawry,Refunded
+RET00701,ORD0007774,2022-08-24,Defective Product,248.0,Cash,Refunded
+RET00702,ORD0007825,2022-07-05,Defective Product,670.0,Vodafone Cash,Refunded
+RET00703,ORD0007857,2023-03-26,Quality Issue,1140.0,InstaPay,Pending
+RET00704,ORD0007879,2023-10-17,Duplicate Order,3260.0,Fawry,Refunded
+RET00705,ORD0007884,2023-05-07,Size Issue,437.0,Fawry,Refunded
+RET00706,ORD0007887,2022-02-01,Size Issue,8800.0,Credit Card,Refunded
+RET00707,ORD0007889,2024-08-28,Size Issue,270.0,Fawry,Refunded
+RET00708,ORD0007892,2022-12-29,Wrong Item Delivered,597.5,Vodafone Cash,Refunded
+RET00709,ORD0007894,2024-03-06,Duplicate Order,3690.0,Debit Card,Refunded
+RET00710,ORD0007895,2022-04-26,Changed Mind,756.0,InstaPay,Refunded
+RET00711,ORD0007899,2023-08-03,Duplicate Order,300.0,Credit Card,Pending
+RET00712,ORD0007902,2024-02-01,Defective Product,55146.0,Credit Card,Rejected
+RET00713,ORD0007903,2023-09-02,Defective Product,1590.0,Vodafone Cash,Refunded
+RET00714,ORD0007907,2023-10-07,Wrong Item Delivered,20105.5,Fawry,Pending
+RET00715,ORD0007920,2023-01-19,Size Issue,796.0,Credit Card,Refunded
+RET00716,ORD0007921,2023-04-28,Wrong Item Delivered,1098.0,InstaPay,Rejected
+RET00717,ORD0007924,2023-08-01,Duplicate Order,330.0,Debit Card,Refunded
+RET00718,ORD0007954,2022-09-23,Size Issue,632.5,Credit Card,Refunded
+RET00719,ORD0007980,2024-12-16,Quality Issue,2013.5,Credit Card,Refunded
+RET00720,ORD0007986,2022-02-23,Duplicate Order,6644.0,InstaPay,Refunded
+RET00721,ORD0007998,2024-03-06,Size Issue,1767.5,Vodafone Cash,Refunded
+RET00722,ORD0008000,2024-07-15,Defective Product,24768.0,InstaPay,Rejected
+RET00723,ORD0008029,2023-06-19,Wrong Item Delivered,1386.0,Debit Card,Refunded
+RET00724,ORD0008043,2024-09-17,Quality Issue,766.5,InstaPay,Refunded
+RET00725,ORD0008075,2023-07-15,Duplicate Order,20701.5,Debit Card,Refunded
+RET00726,ORD0008099,2024-01-21,Duplicate Order,963.0,Credit Card,Refunded
+RET00727,ORD0008140,2024-01-19,Size Issue,2310.0,InstaPay,Refunded
+RET00728,ORD0008143,2024-03-22,Wrong Item Delivered,12650.0,Debit Card,Refunded
+RET00729,ORD0008162,2024-07-26,Duplicate Order,119.0,Vodafone Cash,Refunded
+RET00730,ORD0008169,2023-12-15,Duplicate Order,792.5,InstaPay,Refunded
+RET00731,ORD0008175,2023-11-19,Quality Issue,497.5,InstaPay,Refunded
+RET00732,ORD0008183,2024-12-30,Duplicate Order,540.0,Fawry,Refunded
+RET00733,ORD0008201,2022-05-01,Quality Issue,766.0,Debit Card,Refunded
+RET00734,ORD0008206,2022-04-02,Defective Product,2098.0,InstaPay,Refunded
+RET00735,ORD0008212,2024-04-11,Changed Mind,333.0,Debit Card,Pending
+RET00736,ORD0008222,2024-12-20,Wrong Item Delivered,506.0,InstaPay,Refunded
+RET00737,ORD0008230,2023-10-25,Quality Issue,216.0,Fawry,Refunded
+RET00738,ORD0008234,2023-06-19,Quality Issue,2976.0,InstaPay,Refunded
+RET00739,ORD0008242,2024-04-02,Defective Product,280.0,Credit Card,Refunded
+RET00740,ORD0008257,2023-04-15,Size Issue,492.0,Debit Card,Refunded
+RET00741,ORD0008265,2022-01-22,Duplicate Order,476.0,InstaPay,Refunded
+RET00742,ORD0008273,2022-11-19,Quality Issue,2712.0,Cash,Refunded
+RET00743,ORD0008276,2024-01-01,Duplicate Order,960.0,Fawry,Refunded
+RET00744,ORD0008279,2024-08-24,Changed Mind,238.0,Cash,Refunded
+RET00745,ORD0008300,2023-05-09,Duplicate Order,5206.0,Vodafone Cash,Refunded
+RET00746,ORD0008316,2022-02-17,Defective Product,8000.0,Debit Card,Rejected
+RET00747,ORD0008328,2024-04-26,Defective Product,915.0,Cash,Rejected
+RET00748,ORD0008333,2022-10-22,Defective Product,1044.0,Fawry,Rejected
+RET00749,ORD0008340,2024-07-23,Changed Mind,285.0,Debit Card,Pending
+RET00750,ORD0008348,2024-01-20,Defective Product,171.0,Fawry,Refunded
+RET00751,ORD0008394,2024-01-17,Quality Issue,2281.0,Debit Card,Refunded
+RET00752,ORD0008402,2024-01-14,Size Issue,749.0,Debit Card,Refunded
+RET00753,ORD0008422,2024-04-06,Defective Product,1192.0,Credit Card,Refunded
+RET00754,ORD0008424,2022-02-24,Changed Mind,804.0,Debit Card,Pending
+RET00755,ORD0008432,2024-09-23,Duplicate Order,16783.0,Credit Card,Refunded
+RET00756,ORD0008437,2024-03-29,Duplicate Order,11448.0,Fawry,Refunded
+RET00757,ORD0008456,2023-03-02,Changed Mind,144.0,Cash,Refunded
+RET00758,ORD0008459,2022-09-29,Duplicate Order,2120.0,Credit Card,Refunded
+RET00759,ORD0008477,2022-02-05,Size Issue,350.0,Fawry,Refunded
+RET00760,ORD0008481,2022-07-20,Defective Product,502.0,Debit Card,Refunded
+RET00761,ORD0008488,2024-11-17,Changed Mind,430.0,Credit Card,Refunded
+RET00762,ORD0008493,2023-11-02,Size Issue,1728.0,Credit Card,Refunded
+RET00763,ORD0008506,2023-07-25,Defective Product,432.0,Credit Card,Pending
+RET00764,ORD0008513,2023-10-13,Duplicate Order,11463.5,Credit Card,Refunded
+RET00765,ORD0008521,2022-10-30,Duplicate Order,142.5,Vodafone Cash,Pending
+RET00766,ORD0008525,2024-03-05,Size Issue,29600.0,Credit Card,Refunded
+RET00767,ORD0008534,2023-07-12,Duplicate Order,76.5,Cash,Refunded
+RET00768,ORD0008556,2023-06-14,Changed Mind,512.0,InstaPay,Refunded
+RET00769,ORD0008560,2024-05-27,Size Issue,1185.0,Cash,Refunded
+RET00770,ORD0008571,2024-06-28,Defective Product,136.0,Credit Card,Pending
+RET00771,ORD0008575,2022-05-05,Size Issue,1404.0,Credit Card,Pending
+RET00772,ORD0008594,2022-05-26,Quality Issue,700.0,Debit Card,Refunded
+RET00773,ORD0008639,2022-01-17,Changed Mind,2438.5,Fawry,Refunded
+RET00774,ORD0008642,2024-10-15,Wrong Item Delivered,432.0,Cash,Pending
+RET00775,ORD0008645,2023-07-23,Wrong Item Delivered,336.0,Vodafone Cash,Refunded
+RET00776,ORD0008658,2023-03-22,Quality Issue,921.5,InstaPay,Refunded
+RET00777,ORD0008675,2024-03-05,Wrong Item Delivered,920.0,Debit Card,Refunded
+RET00778,ORD0008681,2023-03-30,Changed Mind,800.5,Cash,Refunded
+RET00779,ORD0008691,2024-04-13,Changed Mind,800.0,Vodafone Cash,Refunded
+RET00780,ORD0008695,2022-01-12,Wrong Item Delivered,669.0,Fawry,Refunded
+RET00781,ORD0008700,2024-06-18,Wrong Item Delivered,1333.0,Fawry,Refunded
+RET00782,ORD0008712,2022-08-25,Wrong Item Delivered,666.0,Vodafone Cash,Refunded
+RET00783,ORD0008718,2023-02-23,Defective Product,2260.0,Cash,Refunded
+RET00784,ORD0008767,2022-03-06,Changed Mind,1572.0,Vodafone Cash,Refunded
+RET00785,ORD0008773,2024-02-13,Quality Issue,680.0,Credit Card,Refunded
+RET00786,ORD0008786,2024-02-21,Quality Issue,520.0,InstaPay,Refunded
+RET00787,ORD0008809,2023-08-26,Duplicate Order,1906.0,Credit Card,Refunded
+RET00788,ORD0008819,2023-07-12,Quality Issue,15000.0,Fawry,Pending
+RET00789,ORD0008839,2024-03-17,Defective Product,841.5,Fawry,Refunded
+RET00790,ORD0008869,2023-05-13,Changed Mind,32213.0,Credit Card,Refunded
+RET00791,ORD0008881,2023-12-08,Defective Product,1181.0,Credit Card,Pending
+RET00792,ORD0008888,2024-10-23,Changed Mind,30010.0,InstaPay,Refunded
+RET00793,ORD0008890,2022-05-22,Defective Product,1658.5,Vodafone Cash,Refunded
+RET00794,ORD0008894,2022-04-27,Wrong Item Delivered,3025.0,Fawry,Refunded
+RET00795,ORD0008895,2022-12-22,Duplicate Order,2175.0,Credit Card,Rejected
+RET00796,ORD0008901,2024-11-16,Wrong Item Delivered,152.0,InstaPay,Refunded
+RET00797,ORD0008923,2022-09-04,Size Issue,1795.5,Fawry,Refunded
+RET00798,ORD0008935,2022-11-12,Duplicate Order,48136.0,Vodafone Cash,Pending
+RET00799,ORD0008944,2024-05-13,Duplicate Order,1562.0,Vodafone Cash,Refunded
+RET00800,ORD0008947,2024-08-15,Quality Issue,480.0,Cash,Pending
+RET00801,ORD0008978,2024-02-14,Changed Mind,540.0,Cash,Pending
+RET00802,ORD0008993,2024-01-07,Defective Product,9938.0,Fawry,Refunded
+RET00803,ORD0008999,2024-10-10,Changed Mind,729.0,Debit Card,Refunded
+RET00804,ORD0009006,2022-03-07,Wrong Item Delivered,160.0,InstaPay,Pending
+RET00805,ORD0009022,2022-04-10,Defective Product,2800.0,Fawry,Pending
+RET00806,ORD0009035,2024-12-01,Defective Product,620.0,Vodafone Cash,Refunded
+RET00807,ORD0009048,2022-01-10,Changed Mind,1696.0,InstaPay,Refunded
+RET00808,ORD0009066,2022-05-09,Defective Product,1744.0,Cash,Pending
+RET00809,ORD0009069,2023-07-03,Duplicate Order,350.0,Cash,Refunded
+RET00810,ORD0009072,2023-03-17,Duplicate Order,19700.0,Debit Card,Refunded
+RET00811,ORD0009083,2022-03-14,Duplicate Order,912.0,Fawry,Refunded
+RET00812,ORD0009098,2023-03-05,Duplicate Order,280.0,InstaPay,Refunded
+RET00813,ORD0009109,2024-05-06,Wrong Item Delivered,703.0,InstaPay,Refunded
+RET00814,ORD0009114,2022-12-25,Changed Mind,2500.0,Credit Card,Pending
+RET00815,ORD0009127,2024-09-07,Wrong Item Delivered,10094.0,Cash,Refunded
+RET00816,ORD0009130,2024-12-19,Duplicate Order,2620.0,Debit Card,Pending
+RET00817,ORD0009167,2022-04-17,Duplicate Order,208.0,Fawry,Pending
+RET00818,ORD0009176,2023-03-07,Duplicate Order,1489.5,Cash,Refunded
+RET00819,ORD0009219,2023-05-26,Defective Product,844.5,Fawry,Refunded
+RET00820,ORD0009223,2022-03-25,Size Issue,3740.0,Debit Card,Refunded
+RET00821,ORD0009230,2022-11-18,Size Issue,890.0,Vodafone Cash,Rejected
+RET00822,ORD0009249,2024-07-13,Quality Issue,600.0,Debit Card,Refunded
+RET00823,ORD0009280,2024-11-13,Defective Product,1660.0,Fawry,Refunded
+RET00824,ORD0009303,2024-05-24,Duplicate Order,150.0,Vodafone Cash,Pending
+RET00825,ORD0009308,2024-02-13,Wrong Item Delivered,541.5,InstaPay,Refunded
+RET00826,ORD0009329,2022-10-13,Duplicate Order,580.0,Vodafone Cash,Refunded
+RET00827,ORD0009338,2023-10-21,Defective Product,10964.0,Fawry,Refunded
+RET00828,ORD0009363,2022-07-09,Defective Product,2916.0,Fawry,Refunded
+RET00829,ORD0009375,2023-11-14,Quality Issue,18488.5,Credit Card,Rejected
+RET00830,ORD0009390,2024-07-16,Size Issue,2413.0,InstaPay,Refunded
+RET00831,ORD0009400,2024-07-29,Wrong Item Delivered,1449.5,Vodafone Cash,Pending
+RET00832,ORD0009401,2024-11-10,Changed Mind,1870.0,Vodafone Cash,Refunded
+RET00833,ORD0009410,2024-02-11,Defective Product,3693.0,Fawry,Refunded
+RET00834,ORD0009412,2022-11-06,Quality Issue,978.0,Vodafone Cash,Refunded
+RET00835,ORD0009421,2022-01-17,Size Issue,190.0,Cash,Pending
+RET00836,ORD0009426,2024-11-26,Changed Mind,1630.5,Debit Card,Refunded
+RET00837,ORD0009429,2022-12-14,Defective Product,63240.0,Debit Card,Refunded
+RET00838,ORD0009479,2024-06-11,Wrong Item Delivered,1584.0,Credit Card,Rejected
+RET00839,ORD0009484,2023-11-21,Duplicate Order,420.0,Cash,Refunded
+RET00840,ORD0009511,2024-06-07,Duplicate Order,420.0,InstaPay,Refunded
+RET00841,ORD0009516,2023-10-01,Changed Mind,603.0,Credit Card,Refunded
+RET00842,ORD0009517,2024-12-03,Wrong Item Delivered,17830.0,Credit Card,Refunded
+RET00843,ORD0009532,2024-04-14,Size Issue,1699.0,InstaPay,Refunded
+RET00844,ORD0009535,2024-09-05,Duplicate Order,838.0,Cash,Pending
+RET00845,ORD0009542,2023-07-16,Quality Issue,510.0,Vodafone Cash,Refunded
+RET00846,ORD0009544,2022-05-21,Size Issue,1222.5,Fawry,Rejected
+RET00847,ORD0009563,2022-05-14,Changed Mind,12370.0,InstaPay,Pending
+RET00848,ORD0009570,2024-09-01,Changed Mind,5414.5,Cash,Refunded
+RET00849,ORD0009575,2024-03-26,Changed Mind,2090.0,Fawry,Rejected
+RET00850,ORD0009591,2023-05-06,Quality Issue,15402.5,Cash,Refunded
+RET00851,ORD0009592,2024-02-02,Defective Product,2131.0,Credit Card,Refunded
+RET00852,ORD0009616,2022-04-22,Defective Product,4250.0,Cash,Refunded
+RET00853,ORD0009617,2023-02-12,Duplicate Order,980.0,Vodafone Cash,Refunded
+RET00854,ORD0009621,2023-09-11,Defective Product,8010.0,Vodafone Cash,Rejected
+RET00855,ORD0009627,2023-08-03,Wrong Item Delivered,774.0,Fawry,Refunded
+RET00856,ORD0009640,2024-08-11,Changed Mind,4425.0,Vodafone Cash,Refunded
+RET00857,ORD0009671,2023-01-17,Duplicate Order,25080.0,InstaPay,Refunded
+RET00858,ORD0009681,2023-04-06,Duplicate Order,2127.0,Credit Card,Refunded
+RET00859,ORD0009708,2023-05-06,Size Issue,756.0,Credit Card,Refunded
+RET00860,ORD0009714,2023-07-13,Duplicate Order,613.0,InstaPay,Refunded
+RET00861,ORD0009715,2022-05-08,Duplicate Order,1079.0,Cash,Refunded
+RET00862,ORD0009716,2024-06-05,Wrong Item Delivered,477.0,Credit Card,Refunded
+RET00863,ORD0009719,2024-03-28,Defective Product,504.0,Fawry,Refunded
+RET00864,ORD0009760,2024-10-02,Duplicate Order,28377.5,Cash,Refunded
+RET00865,ORD0009769,2024-07-27,Wrong Item Delivered,10640.0,Cash,Refunded
+RET00866,ORD0009777,2022-06-10,Duplicate Order,20400.0,Cash,Refunded
+RET00867,ORD0009788,2022-12-29,Wrong Item Delivered,12100.0,Debit Card,Refunded
+RET00868,ORD0009794,2024-08-23,Wrong Item Delivered,480.0,Vodafone Cash,Refunded
+RET00869,ORD0009832,2022-08-18,Defective Product,405.0,Vodafone Cash,Refunded
+RET00870,ORD0009833,2022-07-30,Changed Mind,3300.0,Cash,Refunded
+RET00871,ORD0009834,2024-09-03,Changed Mind,1687.5,Cash,Pending
+RET00872,ORD0009845,2024-02-29,Size Issue,976.0,InstaPay,Refunded
+RET00873,ORD0009885,2024-05-24,Defective Product,620.5,Fawry,Refunded
+RET00874,ORD0009888,2022-05-07,Size Issue,1425.0,Debit Card,Refunded
+RET00875,ORD0009894,2024-03-17,Wrong Item Delivered,980.0,Vodafone Cash,Refunded
+RET00876,ORD0009895,2024-01-14,Wrong Item Delivered,270.0,Debit Card,Refunded
+RET00877,ORD0009896,2022-06-03,Size Issue,144.0,Fawry,Refunded
+RET00878,ORD0009905,2023-05-31,Defective Product,468.0,Credit Card,Refunded
+RET00879,ORD0009935,2022-04-14,Changed Mind,646.0,Fawry,Refunded
+RET00880,ORD0009939,2022-03-27,Quality Issue,520.0,Fawry,Refunded
+RET00881,ORD0009957,2023-07-15,Size Issue,1964.5,Fawry,Refunded
+RET00882,ORD0009960,2023-08-13,Size Issue,1045.0,InstaPay,Refunded
+RET00883,ORD0009964,2024-01-10,Duplicate Order,2044.0,Debit Card,Rejected
+RET00884,ORD0009971,2022-03-12,Wrong Item Delivered,3806.0,Credit Card,Pending
+RET00885,ORD0009986,2023-05-14,Wrong Item Delivered,3326.5,Credit Card,Rejected
+RET00886,ORD0009991,2022-04-04,Quality Issue,4043.0,Credit Card,Refunded
+RET00887,ORD0009992,2023-07-20,Changed Mind,12440.0,InstaPay,Refunded
+RET00888,ORD0009995,2024-10-11,Duplicate Order,456.0,Vodafone Cash,Pending
+RET00889,ORD0010006,2024-01-06,Quality Issue,3476.0,Fawry,Rejected
+RET00890,ORD0010012,2024-04-20,Changed Mind,1607.0,Debit Card,Refunded
+RET00891,ORD0010013,2022-03-04,Quality Issue,190.0,Vodafone Cash,Refunded
+RET00892,ORD0010019,2022-06-30,Duplicate Order,775.0,Debit Card,Refunded
+RET00893,ORD0010035,2022-07-13,Changed Mind,600.0,Credit Card,Refunded
+RET00894,ORD0010036,2024-05-13,Changed Mind,900.0,Debit Card,Refunded
+RET00895,ORD0010049,2024-11-25,Size Issue,1608.0,Credit Card,Pending
+RET00896,ORD0010055,2023-04-22,Duplicate Order,1000.0,Vodafone Cash,Refunded
+RET00897,ORD0010060,2023-06-18,Defective Product,150.0,Vodafone Cash,Pending
+RET00898,ORD0010069,2023-05-27,Quality Issue,28620.0,InstaPay,Refunded
+RET00899,ORD0010079,2023-11-02,Wrong Item Delivered,1400.0,Vodafone Cash,Refunded
+RET00900,ORD0010082,2022-03-04,Wrong Item Delivered,468.0,Credit Card,Refunded
+RET00901,ORD0010084,2024-07-24,Quality Issue,1890.0,Debit Card,Rejected
+RET00902,ORD0010093,2024-07-14,Wrong Item Delivered,9044.5,Credit Card,Refunded
+RET00903,ORD0010101,2023-04-16,Size Issue,1081.0,Cash,Refunded
+RET00904,ORD0010112,2022-11-23,Quality Issue,17160.0,Credit Card,Refunded
+RET00905,ORD0010132,2024-04-16,Defective Product,517.0,Cash,Refunded
+RET00906,ORD0010141,2024-08-21,Size Issue,747.0,Vodafone Cash,Rejected
+RET00907,ORD0010158,2024-08-01,Changed Mind,207.0,Cash,Refunded
+RET00908,ORD0010164,2024-05-26,Size Issue,1478.0,InstaPay,Refunded
+RET00909,ORD0010175,2022-06-21,Wrong Item Delivered,135.0,Fawry,Rejected
+RET00910,ORD0010180,2022-05-18,Duplicate Order,345.0,InstaPay,Refunded
+RET00911,ORD0010199,2022-07-20,Quality Issue,2070.0,Cash,Rejected
+RET00912,ORD0010225,2022-11-05,Quality Issue,130.0,InstaPay,Refunded
+RET00913,ORD0010227,2022-04-26,Changed Mind,1080.0,Cash,Pending
+RET00914,ORD0010229,2022-02-03,Changed Mind,4928.0,Debit Card,Pending
+RET00915,ORD0010231,2023-07-25,Wrong Item Delivered,1265.0,Fawry,Refunded
+RET00916,ORD0010241,2022-06-15,Size Issue,21435.0,Vodafone Cash,Refunded
+RET00917,ORD0010243,2024-02-04,Defective Product,126.0,InstaPay,Refunded
+RET00918,ORD0010253,2022-07-23,Defective Product,720.0,Fawry,Refunded
+RET00919,ORD0010254,2024-05-01,Size Issue,10212.0,Fawry,Refunded
+RET00920,ORD0010255,2024-08-06,Changed Mind,153.0,Debit Card,Refunded
+RET00921,ORD0010262,2023-08-30,Wrong Item Delivered,571.5,Fawry,Rejected
+RET00922,ORD0010273,2024-08-13,Duplicate Order,7983.0,Debit Card,Rejected
+RET00923,ORD0010280,2022-09-24,Size Issue,873.0,Fawry,Refunded
+RET00924,ORD0010283,2024-07-02,Wrong Item Delivered,720.0,Credit Card,Refunded
+RET00925,ORD0010299,2024-02-12,Quality Issue,220.0,InstaPay,Rejected
+RET00926,ORD0010300,2024-08-26,Size Issue,351.5,Credit Card,Refunded
+RET00927,ORD0010311,2022-10-15,Quality Issue,360.0,Fawry,Refunded
+RET00928,ORD0010315,2024-09-08,Wrong Item Delivered,926.0,Fawry,Refunded
+RET00929,ORD0010342,2023-11-23,Changed Mind,224.0,Fawry,Refunded
+RET00930,ORD0010357,2023-04-01,Wrong Item Delivered,190.0,Vodafone Cash,Refunded
+RET00931,ORD0010411,2023-12-14,Wrong Item Delivered,130.0,Debit Card,Refunded
+RET00932,ORD0010422,2024-11-25,Size Issue,540.0,Fawry,Refunded
+RET00933,ORD0010437,2022-02-19,Quality Issue,190.0,Fawry,Refunded
+RET00934,ORD0010492,2023-02-25,Changed Mind,330.0,InstaPay,Refunded
+RET00935,ORD0010500,2022-11-17,Duplicate Order,300.0,Fawry,Refunded
+RET00936,ORD0010508,2024-01-11,Defective Product,1025.0,Vodafone Cash,Refunded
+RET00937,ORD0010511,2022-12-17,Size Issue,13520.0,Credit Card,Refunded
+RET00938,ORD0010533,2024-07-01,Defective Product,11132.5,Credit Card,Refunded
+RET00939,ORD0010541,2024-04-14,Changed Mind,1212.0,Vodafone Cash,Pending
+RET00940,ORD0010544,2024-03-24,Quality Issue,2193.0,Debit Card,Refunded
+RET00941,ORD0010572,2024-09-10,Changed Mind,747.5,Debit Card,Refunded
+RET00942,ORD0010577,2024-02-27,Defective Product,405.0,Fawry,Refunded
+RET00943,ORD0010597,2024-04-24,Changed Mind,430.0,Vodafone Cash,Refunded
+RET00944,ORD0010598,2022-09-17,Defective Product,597.5,Debit Card,Refunded
+RET00945,ORD0010601,2022-12-11,Wrong Item Delivered,280.0,Vodafone Cash,Refunded
+RET00946,ORD0010606,2024-11-03,Wrong Item Delivered,135.0,Fawry,Refunded
+RET00947,ORD0010616,2024-06-11,Defective Product,423.0,InstaPay,Refunded
+RET00948,ORD0010625,2024-07-13,Defective Product,126.0,Cash,Rejected
+RET00949,ORD0010634,2022-11-19,Changed Mind,238.0,Debit Card,Refunded
+RET00950,ORD0010641,2022-02-08,Quality Issue,8214.0,Cash,Rejected
+RET00951,ORD0010644,2023-06-01,Defective Product,6147.0,Debit Card,Refunded
+RET00952,ORD0010659,2024-10-01,Changed Mind,1372.0,Cash,Refunded
+RET00953,ORD0010670,2022-03-28,Changed Mind,756.0,Debit Card,Refunded
+RET00954,ORD0010677,2024-05-20,Quality Issue,5920.0,Fawry,Refunded
+RET00955,ORD0010684,2024-01-19,Wrong Item Delivered,669.0,Credit Card,Pending
+RET00956,ORD0010693,2024-01-27,Quality Issue,368.5,Credit Card,Refunded
+RET00957,ORD0010711,2022-07-25,Quality Issue,29116.0,Vodafone Cash,Refunded
+RET00958,ORD0010713,2023-07-31,Quality Issue,468.0,Cash,Refunded
+RET00959,ORD0010760,2023-06-28,Size Issue,1528.0,Vodafone Cash,Refunded
+RET00960,ORD0010785,2022-05-18,Changed Mind,11937.5,Debit Card,Refunded
+RET00961,ORD0010803,2022-11-06,Changed Mind,250.0,Credit Card,Refunded
+RET00962,ORD0010804,2023-04-13,Duplicate Order,600.0,Credit Card,Rejected
+RET00963,ORD0010832,2022-01-28,Defective Product,600.0,Cash,Refunded
+RET00964,ORD0010840,2022-11-22,Changed Mind,495.0,Fawry,Refunded
+RET00965,ORD0010849,2024-08-07,Wrong Item Delivered,480.0,Vodafone Cash,Refunded
+RET00966,ORD0010861,2024-04-29,Size Issue,1031.0,Debit Card,Refunded
+RET00967,ORD0010877,2023-11-09,Defective Product,275.0,Debit Card,Refunded
+RET00968,ORD0010880,2022-08-18,Size Issue,666.0,InstaPay,Refunded
+RET00969,ORD0010890,2024-09-07,Quality Issue,976.0,Vodafone Cash,Refunded
+RET00970,ORD0010904,2023-08-23,Defective Product,494.0,InstaPay,Refunded
+RET00971,ORD0010918,2024-04-01,Size Issue,900.0,Fawry,Refunded
+RET00972,ORD0010930,2022-04-12,Quality Issue,1734.0,Vodafone Cash,Refunded
+RET00973,ORD0010935,2024-09-06,Changed Mind,29460.0,Vodafone Cash,Refunded
+RET00974,ORD0010945,2023-11-25,Defective Product,240.0,Debit Card,Refunded
+RET00975,ORD0010970,2023-05-24,Duplicate Order,3200.0,Fawry,Pending
+RET00976,ORD0010993,2022-09-06,Size Issue,560.0,Debit Card,Refunded
+RET00977,ORD0011000,2023-02-08,Defective Product,639.0,Credit Card,Rejected
+RET00978,ORD0011013,2024-02-07,Wrong Item Delivered,40440.0,Cash,Refunded
+RET00979,ORD0011017,2023-02-15,Changed Mind,600.0,Debit Card,Refunded
+RET00980,ORD0011027,2023-11-08,Defective Product,361.0,Cash,Pending
+RET00981,ORD0011056,2023-01-11,Quality Issue,325.0,InstaPay,Refunded
+RET00982,ORD0011063,2024-02-02,Changed Mind,783.0,Fawry,Refunded
+RET00983,ORD0011079,2023-06-04,Defective Product,963.5,Fawry,Pending
+RET00984,ORD0011086,2024-12-26,Changed Mind,2547.5,Credit Card,Refunded
+RET00985,ORD0011089,2024-10-05,Duplicate Order,11326.5,InstaPay,Refunded
+RET00986,ORD0011106,2022-11-07,Changed Mind,18575.0,Fawry,Refunded
+RET00987,ORD0011122,2022-06-08,Size Issue,1092.0,Fawry,Refunded
+RET00988,ORD0011125,2023-02-05,Quality Issue,247.5,Cash,Refunded
+RET00989,ORD0011127,2022-11-01,Wrong Item Delivered,674.0,Credit Card,Refunded
+RET00990,ORD0011130,2024-09-26,Wrong Item Delivered,22820.0,Credit Card,Refunded
+RET00991,ORD0011132,2022-05-29,Wrong Item Delivered,1099.0,Fawry,Refunded
+RET00992,ORD0011144,2024-06-11,Changed Mind,2409.0,Fawry,Pending
+RET00993,ORD0011197,2024-07-04,Duplicate Order,11626.0,Credit Card,Refunded
+RET00994,ORD0011199,2024-10-20,Size Issue,608.0,Debit Card,Refunded
+RET00995,ORD0011205,2023-04-04,Quality Issue,168.0,Credit Card,Refunded
+RET00996,ORD0011225,2024-06-18,Defective Product,380.0,Credit Card,Refunded
+RET00997,ORD0011226,2022-10-05,Wrong Item Delivered,25326.0,InstaPay,Refunded
+RET00998,ORD0011231,2023-10-27,Wrong Item Delivered,30000.0,InstaPay,Refunded
+RET00999,ORD0011269,2024-07-21,Duplicate Order,33133.5,Vodafone Cash,Refunded
+RET01000,ORD0011298,2023-12-10,Quality Issue,28750.0,Credit Card,Refunded
+RET01001,ORD0011304,2024-04-28,Quality Issue,85.0,Fawry,Pending
+RET01002,ORD0011338,2022-07-20,Quality Issue,7000.0,Vodafone Cash,Refunded
+RET01003,ORD0011406,2023-10-16,Size Issue,210.0,InstaPay,Refunded
+RET01004,ORD0011420,2024-09-07,Duplicate Order,1225.5,Fawry,Refunded
+RET01005,ORD0011429,2022-09-07,Wrong Item Delivered,2006.5,Credit Card,Refunded
+RET01006,ORD0011457,2024-12-10,Wrong Item Delivered,740.5,Credit Card,Pending
+RET01007,ORD0011462,2023-02-08,Changed Mind,298.0,Credit Card,Rejected
+RET01008,ORD0011480,2023-11-01,Wrong Item Delivered,534.5,Fawry,Rejected
+RET01009,ORD0011481,2022-04-07,Size Issue,770.0,Debit Card,Refunded
+RET01010,ORD0011494,2022-11-04,Duplicate Order,540.0,Credit Card,Rejected
+RET01011,ORD0011504,2024-01-05,Duplicate Order,1987.5,Credit Card,Refunded
+RET01012,ORD0011541,2024-09-28,Size Issue,288.0,Vodafone Cash,Refunded
+RET01013,ORD0011543,2024-06-22,Changed Mind,204.0,Credit Card,Refunded
+RET01014,ORD0011546,2024-12-06,Quality Issue,12771.0,Fawry,Pending
+RET01015,ORD0011573,2023-05-24,Changed Mind,6336.0,InstaPay,Rejected
+RET01016,ORD0011575,2023-01-28,Quality Issue,17700.0,Vodafone Cash,Refunded
+RET01017,ORD0011581,2024-03-26,Quality Issue,2822.0,Fawry,Refunded
+RET01018,ORD0011591,2022-09-08,Defective Product,760.0,Debit Card,Refunded
+RET01019,ORD0011603,2022-04-21,Size Issue,14788.0,Cash,Refunded
+RET01020,ORD0011625,2023-05-03,Duplicate Order,1050.0,Vodafone Cash,Refunded
+RET01021,ORD0011668,2024-08-07,Wrong Item Delivered,1612.0,Cash,Refunded
+RET01022,ORD0011678,2022-06-17,Size Issue,2613.0,Credit Card,Refunded
+RET01023,ORD0011682,2022-10-29,Duplicate Order,127.5,InstaPay,Refunded
+RET01024,ORD0011685,2024-12-25,Quality Issue,900.0,Cash,Refunded
+RET01025,ORD0011687,2022-12-29,Defective Product,970.5,InstaPay,Refunded
+RET01026,ORD0011696,2022-08-22,Size Issue,3930.0,Vodafone Cash,Rejected
+RET01027,ORD0011703,2022-12-08,Changed Mind,318.5,Vodafone Cash,Refunded
+RET01028,ORD0011733,2023-09-18,Wrong Item Delivered,774.0,Credit Card,Refunded
+RET01029,ORD0011739,2022-02-18,Size Issue,800.0,Credit Card,Refunded
+RET01030,ORD0011743,2024-08-16,Defective Product,1322.5,Debit Card,Refunded
+RET01031,ORD0011744,2023-03-17,Changed Mind,5250.0,Credit Card,Rejected
+RET01032,ORD0011760,2023-07-29,Defective Product,480.0,Credit Card,Refunded
+RET01033,ORD0011776,2022-04-02,Size Issue,2212.5,Cash,Refunded
+RET01034,ORD0011784,2022-08-11,Changed Mind,8455.0,Credit Card,Refunded
+RET01035,ORD0011793,2023-09-06,Changed Mind,2953.0,Debit Card,Refunded
+RET01036,ORD0011811,2023-03-06,Wrong Item Delivered,1267.0,Cash,Refunded
+RET01037,ORD0011815,2024-04-10,Changed Mind,1135.0,Cash,Refunded
+RET01038,ORD0011829,2022-04-27,Size Issue,460.0,Fawry,Refunded
+RET01039,ORD0011830,2024-01-24,Quality Issue,1962.0,InstaPay,Refunded
+RET01040,ORD0011834,2024-09-28,Duplicate Order,3582.5,Fawry,Pending
+RET01041,ORD0011837,2023-05-26,Size Issue,720.0,Cash,Refunded
+RET01042,ORD0011845,2022-02-18,Wrong Item Delivered,741.0,Vodafone Cash,Refunded
+RET01043,ORD0011848,2023-12-31,Size Issue,1551.0,Debit Card,Refunded
+RET01044,ORD0011850,2022-09-15,Defective Product,2462.5,Vodafone Cash,Refunded
+RET01045,ORD0011853,2024-10-25,Quality Issue,1530.5,Credit Card,Refunded
+RET01046,ORD0011860,2022-04-29,Size Issue,793.0,Vodafone Cash,Refunded
+RET01047,ORD0011874,2022-06-20,Defective Product,160.0,Cash,Refunded
+RET01048,ORD0011879,2022-04-19,Size Issue,703.0,Vodafone Cash,Refunded
+RET01049,ORD0011881,2022-11-15,Duplicate Order,199.5,Vodafone Cash,Refunded
+RET01050,ORD0011887,2023-05-01,Changed Mind,319.5,Debit Card,Refunded
+RET01051,ORD0011890,2022-04-01,Duplicate Order,1573.0,Cash,Refunded
+RET01052,ORD0011907,2022-08-30,Duplicate Order,761.0,InstaPay,Pending
+RET01053,ORD0011946,2024-01-02,Quality Issue,1089.0,Fawry,Refunded
+RET01054,ORD0011969,2023-10-04,Defective Product,234.0,Vodafone Cash,Refunded
+RET01055,ORD0011985,2024-10-26,Size Issue,180.0,Vodafone Cash,Refunded
+RET01056,ORD0011994,2024-07-15,Quality Issue,17246.0,Credit Card,Refunded

@@ -1,0 +1,346 @@
+product_id,product_name_raw,category,subcategory,brand,unit_price_text,unit_price,unit_cost,stock_qty,is_active
+CLT0001,T-Shirt | Black | S,Clothing,Tops,Nile Fashion,EGP 90,90,40,449,1
+CLT0002,T-Shirt | Black | M,Clothing,Tops,Nile Fashion,EGP 90,90,40,94,1
+CLT0003,T-Shirt | Black | L,Clothing,Tops,Nile Fashion,EGP 90,90,40,444,1
+CLT0004,T-Shirt | Black | XL,Clothing,Tops,Nile Fashion,EGP 90,90,40,408,1
+CLT0005,T-Shirt | White | S,Clothing,Tops,Nile Fashion,EGP 90,90,40,22,1
+CLT0006,T-Shirt | White | M,Clothing,Tops,Nile Fashion,EGP 80,80,40,130,1
+CLT0007,T-Shirt | White | L,Clothing,Tops,Nile Fashion,EGP 90,90,40,392,1
+CLT0008,T-Shirt | White | XL,Clothing,Tops,Nile Fashion,EGP 90,90,40,417,1
+CLT0009,T-Shirt | Navy | S,Clothing,Tops,Nile Fashion,EGP 90,90,40,44,1
+CLT0010,T-Shirt | Navy | M,Clothing,Tops,Nile Fashion,EGP 90,90,40,338,1
+CLT0011,T-Shirt | Navy | L,Clothing,Tops,Nile Fashion,EGP 80,80,40,483,1
+CLT0012,T-Shirt | Navy | XL,Clothing,Tops,Nile Fashion,EGP 90,90,40,343,1
+CLT0013,T-Shirt | Grey | S,Clothing,Tops,Nile Fashion,EGP 90,90,40,93,1
+CLT0014,T-Shirt | Grey | M,Clothing,Tops,Nile Fashion,EGP 80,80,40,200,1
+CLT0015,T-Shirt | Grey | L,Clothing,Tops,Nile Fashion,EGP 90,90,40,360,1
+CLT0016,T-Shirt | Grey | XL,Clothing,Tops,Nile Fashion,EGP 90,90,40,204,1
+CLT0017,Polo Shirt | Black | S,Clothing,Tops,Sphinx Collection,EGP 150,150,70,422,0
+CLT0018,Polo Shirt | Black | M,Clothing,Tops,Sphinx Collection,EGP 150,150,70,219,1
+CLT0019,Polo Shirt | Black | L,Clothing,Tops,Sphinx Collection,EGP 140,140,70,218,0
+CLT0020,Polo Shirt | Black | XL,Clothing,Tops,Sphinx Collection,EGP 140,140,70,28,1
+CLT0021,Polo Shirt | White | S,Clothing,Tops,Sphinx Collection,EGP 140,140,70,143,1
+CLT0022,Polo Shirt | White | M,Clothing,Tops,Sphinx Collection,EGP 150,150,70,415,1
+CLT0023,Polo Shirt | White | L,Clothing,Tops,Sphinx Collection,EGP 150,150,70,88,1
+CLT0024,Polo Shirt | White | XL,Clothing,Tops,Sphinx Collection,EGP 150,150,70,436,1
+CLT0025,Polo Shirt | Navy | S,Clothing,Tops,Sphinx Collection,EGP 160,160,70,370,1
+CLT0026,Polo Shirt | Navy | M,Clothing,Tops,Sphinx Collection,EGP 150,150,70,343,1
+CLT0027,Polo Shirt | Navy | L,Clothing,Tops,Sphinx Collection,EGP 140,140,70,386,1
+CLT0028,Polo Shirt | Navy | XL,Clothing,Tops,Sphinx Collection,EGP 150,150,70,170,1
+CLT0029,Polo Shirt | Green | S,Clothing,Tops,Sphinx Collection,EGP 160,160,70,473,1
+CLT0030,Polo Shirt | Green | M,Clothing,Tops,Sphinx Collection,EGP 160,160,70,283,1
+CLT0031,Polo Shirt | Green | L,Clothing,Tops,Sphinx Collection,EGP 160,160,70,262,1
+CLT0032,Polo Shirt | Green | XL,Clothing,Tops,Sphinx Collection,EGP 150,150,70,117,1
+CLT0033,Formal Shirt | White | S,Clothing,Tops,Lotus Classic,EGP 230,230,110,189,1
+CLT0034,Formal Shirt | White | M,Clothing,Tops,Lotus Classic,EGP 230,230,110,243,1
+CLT0035,Formal Shirt | White | L,Clothing,Tops,Lotus Classic,EGP 230,230,110,478,0
+CLT0036,Formal Shirt | White | XL,Clothing,Tops,Lotus Classic,EGP 220,220,100,115,1
+CLT0037,Formal Shirt | Blue | S,Clothing,Tops,Lotus Classic,EGP 220,220,100,493,1
+CLT0038,Formal Shirt | Blue | M,Clothing,Tops,Lotus Classic,EGP 210,210,100,62,1
+CLT0039,Formal Shirt | Blue | L,Clothing,Tops,Lotus Classic,EGP 210,210,100,328,0
+CLT0040,Formal Shirt | Blue | XL,Clothing,Tops,Lotus Classic,EGP 210,210,100,170,1
+CLT0041,Formal Shirt | Grey | S,Clothing,Tops,Lotus Classic,EGP 210,210,100,358,1
+CLT0042,Formal Shirt | Grey | M,Clothing,Tops,Lotus Classic,EGP 220,220,100,387,1
+CLT0043,Formal Shirt | Grey | L,Clothing,Tops,Lotus Classic,EGP 230,230,110,199,1
+CLT0044,Formal Shirt | Grey | XL,Clothing,Tops,Lotus Classic,EGP 230,230,110,486,1
+CLT0045,Formal Shirt | Beige | S,Clothing,Tops,Lotus Classic,EGP 240,240,110,160,1
+CLT0046,Formal Shirt | Beige | M,Clothing,Tops,Lotus Classic,EGP 230,230,110,49,1
+CLT0047,Formal Shirt | Beige | L,Clothing,Tops,Lotus Classic,EGP 220,220,110,206,1
+CLT0048,Formal Shirt | Beige | XL,Clothing,Tops,Lotus Classic,EGP 230,230,110,101,0
+CLT0049,Casual Shirt | Blue | S,Clothing,Tops,Cairo Style,EGP 180,180,80,367,1
+CLT0050,Casual Shirt | Blue | M,Clothing,Tops,Cairo Style,EGP 160,160,70,54,1
+CLT0051,Casual Shirt | Blue | L,Clothing,Tops,Cairo Style,EGP 170,170,80,205,1
+CLT0052,Casual Shirt | Blue | XL,Clothing,Tops,Cairo Style,EGP 170,170,80,329,1
+CLT0053,Casual Shirt | Green | S,Clothing,Tops,Cairo Style,EGP 170,170,80,209,1
+CLT0054,Casual Shirt | Green | M,Clothing,Tops,Cairo Style,EGP 180,180,80,313,1
+CLT0055,Casual Shirt | Green | L,Clothing,Tops,Cairo Style,EGP 170,170,80,180,1
+CLT0056,Casual Shirt | Green | XL,Clothing,Tops,Cairo Style,EGP 160,160,80,78,1
+CLT0057,Casual Shirt | Beige | S,Clothing,Tops,Cairo Style,EGP 160,160,80,285,1
+CLT0058,Casual Shirt | Beige | M,Clothing,Tops,Cairo Style,EGP 170,170,80,154,1
+CLT0059,Casual Shirt | Beige | L,Clothing,Tops,Cairo Style,EGP 170,170,80,129,0
+CLT0060,Casual Shirt | Beige | XL,Clothing,Tops,Cairo Style,EGP 160,160,80,489,0
+CLT0061,Casual Shirt | Brown | S,Clothing,Tops,Cairo Style,EGP 160,160,80,89,1
+CLT0062,Casual Shirt | Brown | M,Clothing,Tops,Cairo Style,EGP 170,170,80,480,1
+CLT0063,Casual Shirt | Brown | L,Clothing,Tops,Cairo Style,EGP 180,180,90,434,1
+CLT0064,Casual Shirt | Brown | XL,Clothing,Tops,Cairo Style,EGP 180,180,80,183,1
+CLT0065,Jeans | Black | 28,Clothing,Bottoms,Lotus Classic,EGP 300,300,150,168,1
+CLT0066,Jeans | Black | 30,Clothing,Bottoms,Lotus Classic,EGP 310,310,150,384,1
+CLT0067,Jeans | Black | 32,Clothing,Bottoms,Lotus Classic,EGP 310,310,150,109,1
+CLT0068,Jeans | Black | 34,Clothing,Bottoms,Lotus Classic,EGP 300,300,150,82,0
+CLT0069,Jeans | Navy | 28,Clothing,Bottoms,Lotus Classic,EGP 310,310,150,141,1
+CLT0070,Jeans | Navy | 30,Clothing,Bottoms,Lotus Classic,EGP 280,280,140,303,1
+CLT0071,Jeans | Navy | 32,Clothing,Bottoms,Lotus Classic,EGP 300,300,140,302,1
+CLT0072,Jeans | Navy | 34,Clothing,Bottoms,Lotus Classic,EGP 320,320,150,53,1
+CLT0073,Jeans | Blue | 28,Clothing,Bottoms,Lotus Classic,EGP 320,320,160,388,1
+CLT0074,Jeans | Blue | 30,Clothing,Bottoms,Lotus Classic,EGP 300,300,140,229,1
+CLT0075,Jeans | Blue | 32,Clothing,Bottoms,Lotus Classic,EGP 280,280,140,182,1
+CLT0076,Jeans | Blue | 34,Clothing,Bottoms,Lotus Classic,EGP 300,300,140,368,1
+CLT0077,Jeans | Grey | 28,Clothing,Bottoms,Lotus Classic,EGP 280,280,140,444,1
+CLT0078,Jeans | Grey | 30,Clothing,Bottoms,Lotus Classic,EGP 300,300,150,113,1
+CLT0079,Jeans | Grey | 32,Clothing,Bottoms,Lotus Classic,EGP 280,280,140,277,1
+CLT0080,Jeans | Grey | 34,Clothing,Bottoms,Lotus Classic,EGP 280,280,140,83,1
+CLT0081,Chinos | Beige | 28,Clothing,Bottoms,Nile Fashion,EGP 270,270,130,185,0
+CLT0082,Chinos | Beige | 30,Clothing,Bottoms,Nile Fashion,EGP 270,270,130,285,1
+CLT0083,Chinos | Beige | 32,Clothing,Bottoms,Nile Fashion,EGP 290,290,140,148,1
+CLT0084,Chinos | Beige | 34,Clothing,Bottoms,Nile Fashion,EGP 300,300,140,160,1
+CLT0085,Chinos | Khaki | 28,Clothing,Bottoms,Nile Fashion,EGP 270,270,130,293,1
+CLT0086,Chinos | Khaki | 30,Clothing,Bottoms,Nile Fashion,EGP 280,280,140,323,0
+CLT0087,Chinos | Khaki | 32,Clothing,Bottoms,Nile Fashion,EGP 270,270,130,357,1
+CLT0088,Chinos | Khaki | 34,Clothing,Bottoms,Nile Fashion,EGP 290,290,140,192,1
+CLT0089,Chinos | Navy | 28,Clothing,Bottoms,Nile Fashion,EGP 280,280,140,442,1
+CLT0090,Chinos | Navy | 30,Clothing,Bottoms,Nile Fashion,EGP 260,260,130,348,1
+CLT0091,Chinos | Navy | 32,Clothing,Bottoms,Nile Fashion,EGP 270,270,130,127,1
+CLT0092,Chinos | Navy | 34,Clothing,Bottoms,Nile Fashion,EGP 280,280,130,347,1
+CLT0093,Chinos | Grey | 28,Clothing,Bottoms,Nile Fashion,EGP 290,290,140,299,1
+CLT0094,Chinos | Grey | 30,Clothing,Bottoms,Nile Fashion,EGP 300,300,140,267,1
+CLT0095,Chinos | Grey | 32,Clothing,Bottoms,Nile Fashion,EGP 290,290,140,227,1
+CLT0096,Chinos | Grey | 34,Clothing,Bottoms,Nile Fashion,EGP 260,260,130,50,1
+CLT0097,Shorts | Black | 28,Clothing,Bottoms,Delta Wear,EGP 150,150,70,124,1
+CLT0098,Shorts | Black | 30,Clothing,Bottoms,Delta Wear,EGP 140,140,70,461,1
+CLT0099,Shorts | Black | 32,Clothing,Bottoms,Delta Wear,EGP 150,150,70,460,1
+CLT0100,Shorts | Black | 34,Clothing,Bottoms,Delta Wear,EGP 150,150,70,409,1
+CLT0101,Shorts | Navy | 28,Clothing,Bottoms,Delta Wear,EGP 150,150,70,183,1
+CLT0102,Shorts | Navy | 30,Clothing,Bottoms,Delta Wear,EGP 140,140,70,250,1
+CLT0103,Shorts | Navy | 32,Clothing,Bottoms,Delta Wear,EGP 140,140,70,168,0
+CLT0104,Shorts | Navy | 34,Clothing,Bottoms,Delta Wear,EGP 160,160,70,234,1
+CLT0105,Shorts | Grey | 28,Clothing,Bottoms,Delta Wear,EGP 160,160,70,101,1
+CLT0106,Shorts | Grey | 30,Clothing,Bottoms,Delta Wear,EGP 160,160,70,389,1
+CLT0107,Shorts | Grey | 32,Clothing,Bottoms,Delta Wear,EGP 150,150,70,275,0
+CLT0108,Shorts | Grey | 34,Clothing,Bottoms,Delta Wear,EGP 150,150,70,470,1
+CLT0109,Shorts | Khaki | 28,Clothing,Bottoms,Delta Wear,EGP 140,140,70,221,1
+CLT0110,Shorts | Khaki | 30,Clothing,Bottoms,Delta Wear,EGP 160,160,70,130,1
+CLT0111,Shorts | Khaki | 32,Clothing,Bottoms,Delta Wear,EGP 140,140,70,164,1
+CLT0112,Shorts | Khaki | 34,Clothing,Bottoms,Delta Wear,EGP 160,160,70,354,1
+CLT0113,Sweatpants | Black | 28,Clothing,Bottoms,Nile Fashion,EGP 200,200,100,453,1
+CLT0114,Sweatpants | Black | 30,Clothing,Bottoms,Nile Fashion,EGP 190,190,90,155,1
+CLT0115,Sweatpants | Black | 32,Clothing,Bottoms,Nile Fashion,EGP 210,210,100,207,1
+CLT0116,Sweatpants | Black | 34,Clothing,Bottoms,Nile Fashion,EGP 190,190,90,307,1
+CLT0117,Sweatpants | Grey | 28,Clothing,Bottoms,Nile Fashion,EGP 200,200,100,57,1
+CLT0118,Sweatpants | Grey | 30,Clothing,Bottoms,Nile Fashion,EGP 200,200,90,301,1
+CLT0119,Sweatpants | Grey | 32,Clothing,Bottoms,Nile Fashion,EGP 210,210,100,368,1
+CLT0120,Sweatpants | Grey | 34,Clothing,Bottoms,Nile Fashion,EGP 190,190,90,69,1
+CLT0121,Sweatpants | Navy | 28,Clothing,Bottoms,Nile Fashion,EGP 210,210,100,193,1
+CLT0122,Sweatpants | Navy | 30,Clothing,Bottoms,Nile Fashion,EGP 200,200,90,93,1
+CLT0123,Sweatpants | Navy | 32,Clothing,Bottoms,Nile Fashion,EGP 200,200,100,276,1
+CLT0124,Sweatpants | Navy | 34,Clothing,Bottoms,Nile Fashion,EGP 190,190,90,385,1
+CLT0125,Hoodie | Black | S,Clothing,Outerwear,Delta Wear,EGP 350,350,170,96,1
+CLT0126,Hoodie | Black | M,Clothing,Outerwear,Delta Wear,EGP 350,350,170,187,0
+CLT0127,Hoodie | Black | L,Clothing,Outerwear,Delta Wear,EGP 340,340,170,221,0
+CLT0128,Hoodie | Black | XL,Clothing,Outerwear,Delta Wear,EGP 360,360,180,173,1
+CLT0129,Hoodie | Grey | S,Clothing,Outerwear,Delta Wear,EGP 350,350,170,280,1
+CLT0130,Hoodie | Grey | M,Clothing,Outerwear,Delta Wear,EGP 360,360,170,173,1
+CLT0131,Hoodie | Grey | L,Clothing,Outerwear,Delta Wear,EGP 330,330,160,189,1
+CLT0132,Hoodie | Grey | XL,Clothing,Outerwear,Delta Wear,EGP 370,370,180,318,1
+CLT0133,Hoodie | Navy | S,Clothing,Outerwear,Delta Wear,EGP 370,370,180,466,1
+CLT0134,Hoodie | Navy | M,Clothing,Outerwear,Delta Wear,EGP 330,330,160,262,1
+CLT0135,Hoodie | Navy | L,Clothing,Outerwear,Delta Wear,EGP 360,360,170,417,1
+CLT0136,Hoodie | Navy | XL,Clothing,Outerwear,Delta Wear,EGP 340,340,160,46,1
+CLT0137,Hoodie | Red | S,Clothing,Outerwear,Delta Wear,EGP 330,330,160,342,1
+CLT0138,Hoodie | Red | M,Clothing,Outerwear,Delta Wear,EGP 360,360,180,214,1
+CLT0139,Hoodie | Red | L,Clothing,Outerwear,Delta Wear,EGP 360,360,170,36,1
+CLT0140,Hoodie | Red | XL,Clothing,Outerwear,Delta Wear,EGP 360,360,170,117,1
+CLT0141,Jacket | Black | S,Clothing,Outerwear,Nile Fashion,EGP 490,490,240,231,1
+CLT0142,Jacket | Black | M,Clothing,Outerwear,Nile Fashion,EGP 490,490,240,416,1
+CLT0143,Jacket | Black | L,Clothing,Outerwear,Nile Fashion,EGP 500,500,240,454,1
+CLT0144,Jacket | Black | XL,Clothing,Outerwear,Nile Fashion,EGP 470,470,230,90,1
+CLT0145,Jacket | Brown | S,Clothing,Outerwear,Nile Fashion,EGP 500,500,250,359,1
+CLT0146,Jacket | Brown | M,Clothing,Outerwear,Nile Fashion,EGP 490,490,240,108,1
+CLT0147,Jacket | Brown | L,Clothing,Outerwear,Nile Fashion,EGP 500,500,250,299,1
+CLT0148,Jacket | Brown | XL,Clothing,Outerwear,Nile Fashion,EGP 520,520,250,389,1
+CLT0149,Jacket | Navy | S,Clothing,Outerwear,Nile Fashion,EGP 520,520,260,155,1
+CLT0150,Jacket | Navy | M,Clothing,Outerwear,Nile Fashion,EGP 480,480,230,146,1
+CLT0151,Jacket | Navy | L,Clothing,Outerwear,Nile Fashion,EGP 480,480,240,172,1
+CLT0152,Jacket | Navy | XL,Clothing,Outerwear,Nile Fashion,EGP 510,510,250,373,1
+CLT0153,Winter Coat | Black | S,Clothing,Outerwear,Nile Fashion,EGP 800,800,390,306,0
+CLT0154,Winter Coat | Black | M,Clothing,Outerwear,Nile Fashion,EGP 830,830,410,160,1
+CLT0155,Winter Coat | Black | L,Clothing,Outerwear,Nile Fashion,EGP 810,810,400,298,1
+CLT0156,Winter Coat | Black | XL,Clothing,Outerwear,Nile Fashion,EGP 850,850,420,439,1
+CLT0157,Winter Coat | Grey | S,Clothing,Outerwear,Nile Fashion,EGP 830,830,410,94,1
+CLT0158,Winter Coat | Grey | M,Clothing,Outerwear,Nile Fashion,EGP 780,780,380,385,1
+CLT0159,Winter Coat | Grey | L,Clothing,Outerwear,Nile Fashion,EGP 850,850,420,355,1
+CLT0160,Winter Coat | Grey | XL,Clothing,Outerwear,Nile Fashion,EGP 800,800,390,123,1
+CLT0161,Winter Coat | Brown | S,Clothing,Outerwear,Nile Fashion,EGP 770,770,380,307,1
+CLT0162,Winter Coat | Brown | M,Clothing,Outerwear,Nile Fashion,EGP 760,760,370,335,1
+CLT0163,Winter Coat | Brown | L,Clothing,Outerwear,Nile Fashion,EGP 770,770,380,45,1
+CLT0164,Winter Coat | Brown | XL,Clothing,Outerwear,Nile Fashion,EGP 800,800,400,346,1
+CLT0165,Windbreaker | Blue | S,Clothing,Outerwear,Lotus Classic,EGP 440,440,220,387,1
+CLT0166,Windbreaker | Blue | M,Clothing,Outerwear,Lotus Classic,EGP 460,460,230,90,1
+CLT0167,Windbreaker | Blue | L,Clothing,Outerwear,Lotus Classic,EGP 450,450,220,495,1
+CLT0168,Windbreaker | Blue | XL,Clothing,Outerwear,Lotus Classic,EGP 460,460,220,470,1
+CLT0169,Windbreaker | Black | S,Clothing,Outerwear,Lotus Classic,EGP 450,450,220,122,1
+CLT0170,Windbreaker | Black | M,Clothing,Outerwear,Lotus Classic,EGP 440,440,210,166,1
+CLT0171,Windbreaker | Black | L,Clothing,Outerwear,Lotus Classic,EGP 470,470,230,65,1
+CLT0172,Windbreaker | Black | XL,Clothing,Outerwear,Lotus Classic,EGP 430,430,210,398,1
+CLT0173,Windbreaker | Red | S,Clothing,Outerwear,Lotus Classic,EGP 480,480,230,487,1
+CLT0174,Windbreaker | Red | M,Clothing,Outerwear,Lotus Classic,EGP 440,440,220,448,1
+CLT0175,Windbreaker | Red | L,Clothing,Outerwear,Lotus Classic,EGP 480,480,230,448,1
+CLT0176,Windbreaker | Red | XL,Clothing,Outerwear,Lotus Classic,EGP 450,450,220,499,1
+CLT0177,Sneakers | White | 38,Clothing,Footwear,Nile Fashion,EGP 630,630,310,24,1
+CLT0178,Sneakers | White | 39,Clothing,Footwear,Nile Fashion,EGP 610,610,300,495,0
+CLT0179,Sneakers | White | 40,Clothing,Footwear,Nile Fashion,EGP 580,580,290,348,1
+CLT0180,Sneakers | White | 41,Clothing,Footwear,Nile Fashion,EGP 600,600,290,500,1
+CLT0181,Sneakers | Black | 38,Clothing,Footwear,Nile Fashion,EGP 600,600,300,159,1
+CLT0182,Sneakers | Black | 39,Clothing,Footwear,Nile Fashion,EGP 570,570,280,103,1
+CLT0183,Sneakers | Black | 40,Clothing,Footwear,Nile Fashion,EGP 610,610,300,387,1
+CLT0184,Sneakers | Black | 41,Clothing,Footwear,Nile Fashion,EGP 620,620,300,424,1
+CLT0185,Sneakers | Grey | 38,Clothing,Footwear,Nile Fashion,EGP 610,610,300,118,1
+CLT0186,Sneakers | Grey | 39,Clothing,Footwear,Nile Fashion,EGP 630,630,310,479,1
+CLT0187,Sneakers | Grey | 40,Clothing,Footwear,Nile Fashion,EGP 590,590,290,187,1
+CLT0188,Sneakers | Grey | 41,Clothing,Footwear,Nile Fashion,EGP 610,610,300,114,0
+CLT0189,Formal Shoes | Black | 38,Clothing,Footwear,Delta Wear,EGP 680,680,340,147,1
+CLT0190,Formal Shoes | Black | 39,Clothing,Footwear,Delta Wear,EGP 690,690,340,248,1
+CLT0191,Formal Shoes | Black | 40,Clothing,Footwear,Delta Wear,EGP 740,740,370,174,1
+CLT0192,Formal Shoes | Black | 41,Clothing,Footwear,Delta Wear,EGP 710,710,350,153,1
+CLT0193,Formal Shoes | Brown | 38,Clothing,Footwear,Delta Wear,EGP 720,720,350,51,1
+CLT0194,Formal Shoes | Brown | 39,Clothing,Footwear,Delta Wear,EGP 700,700,340,101,1
+CLT0195,Formal Shoes | Brown | 40,Clothing,Footwear,Delta Wear,EGP 700,700,350,478,1
+CLT0196,Formal Shoes | Brown | 41,Clothing,Footwear,Delta Wear,EGP 730,730,360,373,1
+CLT0197,Sandals | Black | 38,Clothing,Footwear,Nile Fashion,EGP 240,240,120,133,1
+CLT0198,Sandals | Black | 39,Clothing,Footwear,Nile Fashion,EGP 240,240,110,98,1
+CLT0199,Sandals | Black | 40,Clothing,Footwear,Nile Fashion,EGP 270,270,130,211,1
+CLT0200,Sandals | Black | 41,Clothing,Footwear,Nile Fashion,EGP 250,250,120,261,1
+CLT0201,Sandals | Brown | 38,Clothing,Footwear,Nile Fashion,EGP 260,260,130,442,1
+CLT0202,Sandals | Brown | 39,Clothing,Footwear,Nile Fashion,EGP 240,240,120,406,1
+CLT0203,Sandals | Brown | 40,Clothing,Footwear,Nile Fashion,EGP 260,260,120,289,1
+CLT0204,Sandals | Brown | 41,Clothing,Footwear,Nile Fashion,EGP 260,260,120,59,1
+CLT0205,Sandals | Beige | 38,Clothing,Footwear,Nile Fashion,EGP 240,240,110,444,1
+CLT0206,Sandals | Beige | 39,Clothing,Footwear,Nile Fashion,EGP 250,250,120,313,1
+CLT0207,Sandals | Beige | 40,Clothing,Footwear,Nile Fashion,EGP 240,240,110,457,1
+CLT0208,Sandals | Beige | 41,Clothing,Footwear,Nile Fashion,EGP 240,240,110,125,1
+CLT0209,Sports Shoes | Black | 38,Clothing,Footwear,Delta Wear,EGP 520,520,250,281,1
+CLT0210,Sports Shoes | Black | 39,Clothing,Footwear,Delta Wear,EGP 510,510,250,87,1
+CLT0211,Sports Shoes | Black | 40,Clothing,Footwear,Delta Wear,EGP 550,550,270,49,1
+CLT0212,Sports Shoes | Black | 41,Clothing,Footwear,Delta Wear,EGP 560,560,280,177,1
+CLT0213,Sports Shoes | White | 38,Clothing,Footwear,Delta Wear,EGP 540,540,270,438,1
+CLT0214,Sports Shoes | White | 39,Clothing,Footwear,Delta Wear,EGP 530,530,260,57,1
+CLT0215,Sports Shoes | White | 40,Clothing,Footwear,Delta Wear,EGP 540,540,260,52,1
+CLT0216,Sports Shoes | White | 41,Clothing,Footwear,Delta Wear,EGP 520,520,250,477,1
+CLT0217,Sports Shoes | Blue | 38,Clothing,Footwear,Delta Wear,EGP 580,580,290,36,1
+CLT0218,Sports Shoes | Blue | 39,Clothing,Footwear,Delta Wear,EGP 520,520,260,89,1
+CLT0219,Sports Shoes | Blue | 40,Clothing,Footwear,Delta Wear,EGP 590,590,290,350,0
+CLT0220,Sports Shoes | Blue | 41,Clothing,Footwear,Delta Wear,EGP 540,540,270,476,1
+CLT0221,Cap | Black | One Size,Clothing,Accessories,Delta Wear,EGP 100,100,40,369,0
+CLT0222,Cap | Navy | One Size,Clothing,Accessories,Delta Wear,EGP 100,100,50,88,1
+CLT0223,Cap | White | One Size,Clothing,Accessories,Delta Wear,EGP 100,100,40,111,0
+CLT0224,Cap | Red | One Size,Clothing,Accessories,Delta Wear,EGP 100,100,40,85,1
+CLT0225,Belt | Black | One Size,Clothing,Accessories,Cairo Style,EGP 160,160,70,407,1
+CLT0226,Belt | Brown | One Size,Clothing,Accessories,Cairo Style,EGP 140,140,70,364,1
+CLT0227,Sunglasses | Black | One Size,Clothing,Accessories,Delta Wear,EGP 300,300,150,441,1
+CLT0228,Sunglasses | Brown | One Size,Clothing,Accessories,Delta Wear,EGP 300,300,140,99,1
+CLT0229,Dress | Black | XS,Clothing,Women Wear,Lotus Classic,EGP 330,330,160,358,1
+CLT0230,Dress | Black | S,Clothing,Women Wear,Lotus Classic,EGP 360,360,180,472,1
+CLT0231,Dress | Black | M,Clothing,Women Wear,Lotus Classic,EGP 340,340,160,54,1
+CLT0232,Dress | Black | L,Clothing,Women Wear,Lotus Classic,EGP 330,330,160,326,1
+CLT0233,Dress | Red | XS,Clothing,Women Wear,Lotus Classic,EGP 370,370,180,145,1
+CLT0234,Dress | Red | S,Clothing,Women Wear,Lotus Classic,EGP 340,340,170,139,1
+CLT0235,Dress | Red | M,Clothing,Women Wear,Lotus Classic,EGP 360,360,180,417,1
+CLT0236,Dress | Red | L,Clothing,Women Wear,Lotus Classic,EGP 350,350,170,168,1
+CLT0237,Dress | Blue | XS,Clothing,Women Wear,Lotus Classic,EGP 370,370,180,314,1
+CLT0238,Dress | Blue | S,Clothing,Women Wear,Lotus Classic,EGP 350,350,170,364,1
+CLT0239,Dress | Blue | M,Clothing,Women Wear,Lotus Classic,EGP 340,340,160,468,1
+CLT0240,Dress | Blue | L,Clothing,Women Wear,Lotus Classic,EGP 360,360,170,133,1
+CLT0241,Dress | White | XS,Clothing,Women Wear,Lotus Classic,EGP 340,340,160,305,0
+CLT0242,Dress | White | S,Clothing,Women Wear,Lotus Classic,EGP 370,370,180,486,1
+CLT0243,Dress | White | M,Clothing,Women Wear,Lotus Classic,EGP 360,360,170,304,1
+CLT0244,Dress | White | L,Clothing,Women Wear,Lotus Classic,EGP 370,370,180,349,1
+CLT0245,Blouse | White | XS,Clothing,Women Wear,Sphinx Collection,EGP 190,190,90,233,1
+CLT0246,Blouse | White | S,Clothing,Women Wear,Sphinx Collection,EGP 190,190,90,114,1
+CLT0247,Blouse | White | M,Clothing,Women Wear,Sphinx Collection,EGP 200,200,90,454,1
+CLT0248,Blouse | White | L,Clothing,Women Wear,Sphinx Collection,EGP 210,210,100,93,1
+CLT0249,Blouse | Blue | XS,Clothing,Women Wear,Sphinx Collection,EGP 210,210,100,307,1
+CLT0250,Blouse | Blue | S,Clothing,Women Wear,Sphinx Collection,EGP 200,200,90,291,1
+CLT0251,Blouse | Blue | M,Clothing,Women Wear,Sphinx Collection,EGP 190,190,90,124,1
+CLT0252,Blouse | Blue | L,Clothing,Women Wear,Sphinx Collection,EGP 190,190,90,250,1
+CLT0253,Blouse | Beige | XS,Clothing,Women Wear,Sphinx Collection,EGP 190,190,90,390,1
+CLT0254,Blouse | Beige | S,Clothing,Women Wear,Sphinx Collection,EGP 190,190,90,213,1
+CLT0255,Blouse | Beige | M,Clothing,Women Wear,Sphinx Collection,EGP 200,200,100,467,1
+CLT0256,Blouse | Beige | L,Clothing,Women Wear,Sphinx Collection,EGP 210,210,100,320,1
+CLT0257,Skirt | Black | XS,Clothing,Women Wear,Sphinx Collection,EGP 240,240,120,126,1
+CLT0258,Skirt | Black | S,Clothing,Women Wear,Sphinx Collection,EGP 240,240,120,485,1
+CLT0259,Skirt | Black | M,Clothing,Women Wear,Sphinx Collection,EGP 260,260,130,399,1
+CLT0260,Skirt | Black | L,Clothing,Women Wear,Sphinx Collection,EGP 270,270,130,265,1
+CLT0261,Skirt | Beige | XS,Clothing,Women Wear,Sphinx Collection,EGP 260,260,120,380,1
+CLT0262,Skirt | Beige | S,Clothing,Women Wear,Sphinx Collection,EGP 260,260,130,302,1
+CLT0263,Skirt | Beige | M,Clothing,Women Wear,Sphinx Collection,EGP 240,240,120,258,1
+CLT0264,Skirt | Beige | L,Clothing,Women Wear,Sphinx Collection,EGP 240,240,120,153,1
+CLT0265,Skirt | Blue | XS,Clothing,Women Wear,Sphinx Collection,EGP 260,260,130,258,1
+CLT0266,Skirt | Blue | S,Clothing,Women Wear,Sphinx Collection,EGP 270,270,130,260,1
+CLT0267,Skirt | Blue | M,Clothing,Women Wear,Sphinx Collection,EGP 240,240,120,124,1
+CLT0268,Skirt | Blue | L,Clothing,Women Wear,Sphinx Collection,EGP 250,250,120,308,1
+CLT0269,Leggings | Black | XS,Clothing,Women Wear,Cairo Style,EGP 140,140,70,303,0
+CLT0270,Leggings | Black | S,Clothing,Women Wear,Cairo Style,EGP 150,150,70,233,1
+CLT0271,Leggings | Black | M,Clothing,Women Wear,Cairo Style,EGP 140,140,70,137,1
+CLT0272,Leggings | Black | L,Clothing,Women Wear,Cairo Style,EGP 160,160,70,275,1
+CLT0273,Leggings | Grey | XS,Clothing,Women Wear,Cairo Style,EGP 160,160,70,192,1
+CLT0274,Leggings | Grey | S,Clothing,Women Wear,Cairo Style,EGP 160,160,70,390,1
+CLT0275,Leggings | Grey | M,Clothing,Women Wear,Cairo Style,EGP 150,150,70,106,1
+CLT0276,Leggings | Grey | L,Clothing,Women Wear,Cairo Style,EGP 150,150,70,91,1
+CLT0277,Leggings | Navy | XS,Clothing,Women Wear,Cairo Style,EGP 150,150,70,489,1
+CLT0278,Leggings | Navy | S,Clothing,Women Wear,Cairo Style,EGP 160,160,70,50,1
+CLT0279,Leggings | Navy | M,Clothing,Women Wear,Cairo Style,EGP 160,160,70,58,0
+CLT0280,Leggings | Navy | L,Clothing,Women Wear,Cairo Style,EGP 150,150,70,411,1
+CLT0281,Abaya | Black | XS,Clothing,Women Wear,Cairo Style,EGP 470,470,230,138,1
+CLT0282,Abaya | Black | S,Clothing,Women Wear,Cairo Style,EGP 430,430,210,131,1
+CLT0283,Abaya | Black | M,Clothing,Women Wear,Cairo Style,EGP 440,440,220,336,1
+CLT0284,Abaya | Black | L,Clothing,Women Wear,Cairo Style,EGP 480,480,230,487,1
+CLT0285,Abaya | Navy | XS,Clothing,Women Wear,Cairo Style,EGP 450,450,220,23,1
+CLT0286,Abaya | Navy | S,Clothing,Women Wear,Cairo Style,EGP 440,440,220,28,1
+CLT0287,Abaya | Navy | M,Clothing,Women Wear,Cairo Style,EGP 430,430,210,166,1
+CLT0288,Abaya | Navy | L,Clothing,Women Wear,Cairo Style,EGP 470,470,230,365,1
+CLT0289,Abaya | Grey | XS,Clothing,Women Wear,Cairo Style,EGP 480,480,230,111,1
+CLT0290,Abaya | Grey | S,Clothing,Women Wear,Cairo Style,EGP 420,420,210,96,1
+CLT0291,Abaya | Grey | M,Clothing,Women Wear,Cairo Style,EGP 460,460,220,149,1
+CLT0292,Abaya | Grey | L,Clothing,Women Wear,Cairo Style,EGP 430,430,210,223,1
+CLT0293,Hijab Set | Black | XS,Clothing,Women Wear,Delta Wear,EGP 130,130,60,144,0
+CLT0294,Hijab Set | Black | S,Clothing,Women Wear,Delta Wear,EGP 120,120,60,370,1
+CLT0295,Hijab Set | Black | M,Clothing,Women Wear,Delta Wear,EGP 120,120,60,459,1
+CLT0296,Hijab Set | Black | L,Clothing,Women Wear,Delta Wear,EGP 120,120,60,227,1
+CLT0297,Hijab Set | White | XS,Clothing,Women Wear,Delta Wear,EGP 130,130,60,48,1
+CLT0298,Hijab Set | White | S,Clothing,Women Wear,Delta Wear,EGP 130,130,60,62,1
+CLT0299,Hijab Set | White | M,Clothing,Women Wear,Delta Wear,EGP 130,130,60,421,1
+CLT0300,Hijab Set | White | L,Clothing,Women Wear,Delta Wear,EGP 140,140,60,68,1
+CLT0301,Hijab Set | Navy | XS,Clothing,Women Wear,Delta Wear,EGP 140,140,60,137,1
+CLT0302,Hijab Set | Navy | S,Clothing,Women Wear,Delta Wear,EGP 140,140,60,474,1
+CLT0303,Hijab Set | Navy | M,Clothing,Women Wear,Delta Wear,EGP 120,120,60,493,1
+CLT0304,Hijab Set | Navy | L,Clothing,Women Wear,Delta Wear,EGP 140,140,60,480,1
+CLT0305,Hijab Set | Beige | XS,Clothing,Women Wear,Delta Wear,EGP 130,130,60,111,1
+CLT0306,Hijab Set | Beige | S,Clothing,Women Wear,Delta Wear,EGP 130,130,60,126,1
+CLT0307,Hijab Set | Beige | M,Clothing,Women Wear,Delta Wear,EGP 130,130,60,384,1
+CLT0308,Hijab Set | Beige | L,Clothing,Women Wear,Delta Wear,EGP 140,140,60,173,1
+ELC0309,Samsung Galaxy A54,Electronics,Mobile Phones,Samsung,EGP 8900,8900,7100,54,1
+ELC0310,Samsung Galaxy A34,Electronics,Mobile Phones,Samsung,EGP 6500,6500,5200,54,1
+ELC0311,iPhone 14 128GB,Electronics,Mobile Phones,Apple,EGP 18600,18600,14900,93,1
+ELC0312,iPhone 13 128GB,Electronics,Mobile Phones,Apple,EGP 15000,15000,12000,49,1
+ELC0313,Xiaomi Redmi Note 12 128GB,Electronics,Mobile Phones,Xiaomi,EGP 5000,5000,4000,14,1
+ELC0314,Oppo A78 256GB,Electronics,Mobile Phones,Oppo,EGP 5600,5600,4500,81,1
+ELC0315,Tecno Spark 20 128GB,Electronics,Mobile Phones,Tecno,EGP 3600,3600,2800,8,1
+ELC0316,Samsung 55 Smart TV 4K,Electronics,TVs & Screens,Samsung,EGP 13200,13200,10600,62,1
+ELC0317,LG 50 OLED TV 4K,Electronics,TVs & Screens,LG,EGP 15900,15900,12700,53,1
+ELC0318,Sony Bravia 43 4K TV,Electronics,TVs & Screens,Sony,EGP 10100,10100,8100,89,1
+ELC0319,TCL 65 Smart TV 4K,Electronics,TVs & Screens,TCL,EGP 12200,12200,9800,42,1
+ELC0320,HP Laptop 15,Electronics,Laptops,HP,EGP 13200,13200,10500,15,1
+ELC0321,Lenovo IdeaPad 3 15,Electronics,Laptops,Lenovo,EGP 10900,10900,8700,86,1
+ELC0322,Dell Inspiron 15 3000,Electronics,Laptops,Dell,EGP 14900,14900,11900,51,1
+ELC0323,Asus VivoBook 15,Electronics,Laptops,Asus,EGP 11200,11200,8900,44,1
+ELC0324,Samsung Galaxy Tab A8,Electronics,Tablets,Samsung,EGP 6100,6100,4900,18,1
+ELC0325,Apple iPad 10th Gen,Electronics,Tablets,Apple,EGP 14700,14700,11800,62,1
+ELC0326,Xiaomi Pad 6 128GB,Electronics,Tablets,Xiaomi,EGP 8000,8000,6400,18,1
+ELC0327,Sony WH-1000XM4,Electronics,Audio & Wearables,Sony,EGP 5000,5000,4000,16,1
+ELC0328,JBL Tune 760NC,Electronics,Audio & Wearables,JBL,EGP 2000,2000,1600,54,1
+ELC0329,Samsung Galaxy Buds 2 Pro,Electronics,Audio & Wearables,Samsung,EGP 2500,2500,2000,15,1
+ELC0330,Apple AirPods Pro 2nd Gen,Electronics,Audio & Wearables,Apple,EGP 7000,7000,5600,36,1
+ELC0331,Xiaomi Smart Band 8 Pro,Electronics,Audio & Wearables,Xiaomi,EGP 2000,2000,1600,53,1
+ELC0332,Samsung Galaxy Watch 6,Electronics,Audio & Wearables,Samsung,EGP 5900,5900,4700,39,1
+ELC0333,Huawei Band 8,Electronics,Audio & Wearables,Huawei,EGP 1000,1000,800,60,1
+ELC0334,Apple Watch Series 9,Electronics,Audio & Wearables,Apple,EGP 12800,12800,10300,14,1
+ELC0335,Samsung T7 1TB SSD,Electronics,Accessories & Storage,Samsung,EGP 1500,1500,1200,97,1
+ELC0336,WD My Passport 2TB,Electronics,Accessories & Storage,WD,EGP 1300,1300,1000,30,1
+ELC0337,Logitech MX Master 3S,Electronics,Accessories & Storage,Logitech,EGP 800,800,600,5,1
+ELC0338,Anker 65W GaN Charger,Electronics,Accessories & Storage,Anker,EGP 300,300,200,84,1
+ELC0339,Huawei WiFi AX3 Router,Electronics,Networking,Huawei,EGP 800,800,700,61,1
+ELC0340,TP-Link Archer C6 Router,Electronics,Networking,TP-Link,EGP 600,600,500,88,0
+ELC0341,Epson EcoTank L3250,Electronics,Printers,Epson,EGP 5900,5900,4700,46,1
+ELC0342,Canon PIXMA G3420,Electronics,Printers,Canon,EGP 5100,5100,4000,66,1
+ELC0343,Sony PS5 Console,Electronics,Gaming,Sony,EGP 18500,18500,14800,45,1
+ELC0344,Nintendo Switch OLED,Electronics,Gaming,Nintendo,EGP 13200,13200,10500,67,0
+ELC0345,Xbox Series S,Electronics,Gaming,Microsoft,EGP 10200,10200,8100,46,1
