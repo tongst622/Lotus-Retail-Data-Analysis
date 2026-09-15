@@ -1,5 +1,4 @@
-# Lotus-Retail-Data-Analysis
-Retail sales analysis — SQL data cleaning, Star Schema, Tableau dashboards
+# Lotus Group Retail — SQL Data Modeling & Analytics Project
 
 ## Overview
 
@@ -92,12 +91,12 @@ checks (see Methodology) before being confirmed clean, but no cleaning is assume
 |---|---|---|
 | `dim_customers` | Duplicates, missing values, data types, split columns, trim text, text casing | ✅ Cleaned |
 | `dim_products` | Data types, split columns | ✅ Cleaned |
-| `dim_stores` | None flagged — verify only | ⬜ Not started |
-| `dim_employees` | None flagged — verify only | ⬜ Not started |
-| `dim_date` | None flagged — verify only | ⬜ Not started |
+| `dim_stores` | None flagged — verify only | ✅ Verified clean |
+| `dim_employees` | None flagged — verify only | ✅ Verified clean |
+| `dim_date` | None flagged — verify only | ✅ Verified clean |
 | `fact_orders_2022_2023` + `fact_orders_2024` | Missing values, trim text, append (UNION) into one table | ✅ Cleaned (combined into `fact_orders_all`) |
-| `fact_order_details` | None flagged — verify only | ⬜ Not started |
-| `fact_returns` | Merge (JOIN) with `fact_order_details` to recover order-level detail | ⬜ Not started |
+| `fact_order_details` | None flagged — verify only | ✅ Verified clean |
+| `fact_returns` | Merge (JOIN) with `fact_order_details` to recover order-level detail | ⏸ Deferred — cleaning deferred until used in analysis |
 
 ---
 
@@ -202,8 +201,9 @@ methodology applied to every table in this project.
 
 ## Next Steps
 
-- Verify/clean remaining tables (`dim_stores`, `dim_employees`, `dim_date`,
-  `fact_order_details`, `fact_returns`) using the same methodology
+- Verify/clean `fact_returns` when it's first used in analysis (deliberately deferred — no
+  issues observed on initial inspection, but not yet run through the full verification
+  checklist used for other tables)
 - Write analysis queries: sales trends by store/category, top/underperforming SKUs,
   customer purchasing patterns
 - Build Tableau dashboards connected to the cleaned MySQL database
