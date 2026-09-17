@@ -201,9 +201,7 @@ methodology applied to every table in this project.
 
 ## Next Steps
 
-- Verify/clean `fact_returns` when it's first used in analysis (deliberately deferred — no
-  issues observed on initial inspection, but not yet run through the full verification
-  checklist used for other tables)
+- fact_returns received the same lightweight inspection as the other unflagged tables (dim_stores, dim_employees, dim_date, fact_order_details) — no issues observed, but not run through the full verification checklist used on dim_customers, dim_products, and fact_orders_all. Any issues that surface once these tables are actually used in analysis will be cleaned at that point, consistent with the pattern already applied throughout the project (e.g. deferring the electronics subset of dim_products).
 - Write analysis queries: sales trends by store/category, top/underperforming SKUs,
   customer purchasing patterns
 - Build Tableau dashboards connected to the cleaned MySQL database
