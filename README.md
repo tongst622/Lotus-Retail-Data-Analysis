@@ -134,7 +134,9 @@ methodology applied to every table in this project.
    VARCHAR(10)`, `email VARCHAR(50)`) instead of leaving all text columns as unconstrained
    `TEXT`.
 
-*Full SQL and reasoning: see [`/sql/01_dim_customers_cleaning.sql`](./sql/lotus_datacleaning.sql)*
+*Full SQL and reasoning: see [`/Lotus-Retail-Data-Analysis
+/lotus_datacleaning.sql.sql`](./Lotus-Retail-Data-Analysis
+/lotus_datacleaning.sql)*
 
 ---
 
@@ -163,7 +165,9 @@ methodology applied to every table in this project.
    `unit_price_text` (e.g. `"EGP 510"`) duplicates the existing `unit_price` column, so no
    extra numeric column was created from it.
 
-*Full SQL and reasoning: see [`/sql/02_dim_products_cleaning.sql`](./sql/lotus_datacleaning.sql)*
+*Full SQL and reasoning: see [`/Lotus-Retail-Data-Analysis
+/lotus_datacleaning.sql.sql`](./Lotus-Retail-Data-Analysis
+/lotus_datacleaning.sql)*
 
 ---
 
@@ -195,7 +199,9 @@ methodology applied to every table in this project.
    contains only whole numbers and was intentionally left as `INT`. Type choice was driven by
    each column's actual data, not by matching types across tables for consistency's sake.
 
-*Full SQL and reasoning: see [`/sql/03_fact_orders_cleaning.sql`](./sql/lotus_datacleaning.sql)*
+*Full SQL and reasoning: see [`/Lotus-Retail-Data-Analysis
+/lotus_datacleaning.sql.sql`](./Lotus-Retail-Data-Analysis
+/lotus_datacleaning.sql)*
 
 ---
 
