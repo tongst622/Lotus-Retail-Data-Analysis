@@ -14,7 +14,7 @@ retail scanner and panel data.
 
 ## Dataset
 
-**Source:** [Lotus Group Retail — Star Schema BI Dataset](https://www.kaggle.com/) (Kaggle)
+**Source:** [Lotus Group Retail — Star Schema BI Dataset](https://www.kaggle.com/datasets/abdelrahmanmahmoud22/lotus-group-retail-star-schema-bi) (Kaggle)
 
 An educational dataset simulating a retail business across Egypt, intentionally containing
 common real-world data quality issues (duplicate records, inconsistent formats, missing
@@ -43,7 +43,11 @@ dimension tables via foreign keys.
 **Fact tables** (business events + measures):
 `fact_orders_2022_2023`, `fact_orders_2024`, `fact_order_details`, `fact_returns`
 
-*ER diagram — to be added here (`/diagrams/erd.png`).*
+![Lotus Group Retail ER diagram](./diagrams/lotus_retail_erd.png)
+
+*Note: `dim_date`'s columns above are inferred from the dataset's documented description
+(Year, Quarter, Month, Week, Day, Weekend Flag, Ramadan Flag) rather than confirmed directly
+against the table — all other tables' columns are verified against actual query output.*
 
 ## Tools
 
@@ -91,12 +95,12 @@ checks (see Methodology) before being confirmed clean, but no cleaning is assume
 |---|---|---|
 | `dim_customers` | Duplicates, missing values, data types, split columns, trim text, text casing | ✅ Cleaned |
 | `dim_products` | Data types, split columns | ✅ Cleaned |
-| `dim_stores` | None flagged — verify only | ✅ Verified clean |
-| `dim_employees` | None flagged — verify only | ✅ Verified clean |
-| `dim_date` | None flagged — verify only | ✅ Verified clean |
+| `dim_stores` | None flagged — verify only | ✅ No issues observed on inspection |
+| `dim_employees` | None flagged — verify only | ✅ No issues observed on inspection |
+| `dim_date` | None flagged — verify only | ✅ No issues observed on inspection |
 | `fact_orders_2022_2023` + `fact_orders_2024` | Missing values, trim text, append (UNION) into one table | ✅ Cleaned (combined into `fact_orders_all`) |
-| `fact_order_details` | None flagged — verify only | ✅ Verified clean |
-| `fact_returns` | Merge (JOIN) with `fact_order_details` to recover order-level detail | ⏸ Deferred — cleaning deferred until used in analysis |
+| `fact_order_details` | None flagged — verify only | ✅ No issues observed on inspection |
+| `fact_returns` | Merge (JOIN) with `fact_order_details` to recover order-level detail | ✅ No issues observed on inspection |
 
 ---
 
@@ -134,9 +138,7 @@ methodology applied to every table in this project.
    VARCHAR(10)`, `email VARCHAR(50)`) instead of leaving all text columns as unconstrained
    `TEXT`.
 
-*Full SQL and reasoning: see [`/Lotus-Retail-Data-Analysis
-/lotus_datacleaning.sql.sql`](./Lotus-Retail-Data-Analysis
-/lotus_datacleaning.sql)*
+*Full SQL and reasoning: see the `dim_customers` section of [`/lotus_datacleaning.sql`](./lotus_datacleaning.sql)*
 
 ---
 
@@ -165,9 +167,7 @@ methodology applied to every table in this project.
    `unit_price_text` (e.g. `"EGP 510"`) duplicates the existing `unit_price` column, so no
    extra numeric column was created from it.
 
-*Full SQL and reasoning: see [`/Lotus-Retail-Data-Analysis
-/lotus_datacleaning.sql.sql`](./Lotus-Retail-Data-Analysis
-/lotus_datacleaning.sql)*
+*Full SQL and reasoning: see the `dim_products` section of [`/lotus_datacleaning.sql`](./lotus_datacleaning.sql)*
 
 ---
 
@@ -199,15 +199,17 @@ methodology applied to every table in this project.
    contains only whole numbers and was intentionally left as `INT`. Type choice was driven by
    each column's actual data, not by matching types across tables for consistency's sake.
 
-*Full SQL and reasoning: see [`/Lotus-Retail-Data-Analysis
-/lotus_datacleaning.sql.sql`](./Lotus-Retail-Data-Analysis
-/lotus_datacleaning.sql)*
+*Full SQL and reasoning: see the `fact_orders_all` section of [`/lotus_datacleaning.sql`](./lotus_datacleaning.sql)*
 
 ---
 
 ## Next Steps
 
-- fact_returns received the same lightweight inspection as the other unflagged tables (dim_stores, dim_employees, dim_date, fact_order_details) — no issues observed, but not run through the full verification checklist used on dim_customers, dim_products, and fact_orders_all. Any issues that surface once these tables are actually used in analysis will be cleaned at that point, consistent with the pattern already applied throughout the project (e.g. deferring the electronics subset of dim_products).
+- `fact_returns`, `dim_stores`, `dim_employees`, `dim_date`, and `fact_order_details` looked
+  clean on inspection but weren't flagged as having known issues — if anything surfaces once
+  they're actually used in analysis, it'll be cleaned at that point, consistent with the
+  pattern already applied elsewhere in this project (e.g. deferring the electronics subset of
+  `dim_products`)
 - Write analysis queries: sales trends by store/category, top/underperforming SKUs,
   customer purchasing patterns
 - Build Tableau dashboards connected to the cleaned MySQL database
