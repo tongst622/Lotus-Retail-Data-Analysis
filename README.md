@@ -43,7 +43,7 @@ dimension tables via foreign keys.
 **Fact tables** (business events + measures):
 `fact_orders_2022_2023`, `fact_orders_2024`, `fact_order_details`, `fact_returns`
 
-![Lotus Group Retail ER diagram](./diagrams/lotus_retail_erd.png)
+![Lotus Group Retail ER diagram](./lotus_retail_erd.png)
 
 *Note: `dim_date`'s columns above are inferred from the dataset's documented description
 (Year, Quarter, Month, Week, Day, Weekend Flag, Ramadan Flag) rather than confirmed directly
